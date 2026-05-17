@@ -1,0 +1,22 @@
+[
+  {
+    "nazov": "Dračia hora a terasa",
+    "typ": "domov dráčikov",
+    "kratko": "Jaskyňa, poklad, kamenný stôl, ihrisko, bazénik a priepasť, ktorá dráčikom neprekáža."
+  },
+  {
+    "nazov": "Kráľovský palác",
+    "typ": "mesto",
+    "kratko": "Palác, záhrada, labyrint, jazierko a Ladin balkón smerom k dobrodružstvu."
+  },
+  {
+    "nazov": "Les a prales",
+    "typ": "dobrodružstvo",
+    "kratko": "Prechod od známeho lesa k čarovným čistinkám, Babe Jage, opiciam a elfským mostíkom."
+  },
+  {
+    "nazov": "Mesto a zmrzlinárstvo",
+    "typ": "ľudia",
+    "kratko": "Stredoveké mesto, kde je zmrzlinárstvo prakticky strategická inštitúcia."
+  }
+]

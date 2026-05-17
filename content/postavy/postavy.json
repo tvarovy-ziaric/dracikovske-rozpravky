@@ -1,0 +1,30 @@
+[
+  {
+    "meno": "Uhlík",
+    "farba": "červená",
+    "schopnosť": "oheň",
+    "kratko": "Ohnivý, odvážny a občas príliš rýchly na vlastné iskry.",
+    "obrazok": "assets/illustrations/uhlik.png"
+  },
+  {
+    "meno": "Mokroš",
+    "farba": "modrá",
+    "schopnosť": "voda",
+    "kratko": "Vodný dráčik, pri ktorom veci často čľapnú skôr než dávajú zmysel.",
+    "obrazok": "assets/illustrations/mokros.png"
+  },
+  {
+    "meno": "Poletucha",
+    "farba": "zelená",
+    "schopnosť": "vzduch a lietanie",
+    "kratko": "Zvedavá čitateľka oblohy, ktorá vidí veci z výšky.",
+    "obrazok": "assets/illustrations/poletucha.png"
+  },
+  {
+    "meno": "Spievanka",
+    "farba": "ružová",
+    "schopnosť": "hudba a tvorenie",
+    "kratko": "Vynálezkyňa zvukov, hračiek a nápadov s vlastným rytmom.",
+    "obrazok": "assets/illustrations/spievanka.png"
+  }
+]
