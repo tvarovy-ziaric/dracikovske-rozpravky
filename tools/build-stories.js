@@ -154,6 +154,16 @@ const paragraphize = (text) =>
 
 const words = (text) => normalizeText(text).split(/\s+/).filter(Boolean).length;
 
+const analyticsTag = `    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J6G9STTTB1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-J6G9STTTB1');
+    </script>`;
+
 async function downloadStory(story) {
   await fs.mkdir(rawDir, { recursive: true });
   const rawPath = path.join(rawDir, `${story.slug}.txt`);
@@ -190,6 +200,7 @@ function storyPage(story, text, allStories) {
     <title>${escapeHtml(story.title)} | Dráčikovské rozprávky</title>
     <meta name="description" content="${escapeHtml(story.note)}">
     <link rel="stylesheet" href="../assets/css/styles.css">
+${analyticsTag}
   </head>
   <body>
     ${nav("../", "stories")}
@@ -275,6 +286,7 @@ function storiesIndex(storyTexts) {
     <title>Rozprávky | Dráčikovské rozprávky</title>
     <meta name="description" content="Zoznam dráčikových rozprávok na čisté čítanie v dennom aj nočnom režime.">
     <link rel="stylesheet" href="../assets/css/styles.css">
+${analyticsTag}
   </head>
   <body>
     ${nav("../", "stories")}
@@ -306,6 +318,7 @@ function homePage() {
     <title>Dráčikovské rozprávky</title>
     <meta name="description" content="Rozprávkový svet štyroch malých dráčikov na čítanie pred spaním.">
     <link rel="stylesheet" href="assets/css/styles.css">
+${analyticsTag}
   </head>
   <body>
     ${nav("", "")}
