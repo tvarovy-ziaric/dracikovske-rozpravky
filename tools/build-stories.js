@@ -16,7 +16,7 @@ const stories = [
     cover: "00-stavba-ihriska.png",
     scene: "00-budovanie-ihriska.png",
     focus: "prvé veľké dračie stavanie",
-    concept: "Úvod do kráľovstva, kde sa princezná Lada nudí v paláci a nad mestom bývajú štyri malé dráčiky. Keď sa ich svety začnú približovať, obyčajná túžba po mieste na hranie sa zmení na prvé veľké dračie dobrodružstvo.",
+    concept: "Úvod do kráľovstva, kde sa princezná Lada nudí v paláci a v hore za mestom bývajú štyri malé dráčiky. Keď sa ich svety začnú približovať, obyčajná túžba po mieste na hranie sa zmení na prvé veľké dračie dobrodružstvo.",
     note: "Dobrá vstupná rozprávka do sveta dráčikov: predstaví horu, terasu aj ich chuť robiť veci po svojom.",
     url: "https://sdmntprnortheu.oaiusercontent.com/files/00000000-6804-71f4-9fea-a55899a03bea/raw?se=2026-05-16T09:59:34Z&sp=r&sv=2026-02-06&sr=b&scid=1616a4ba-d708-4646-bfc8-a757ec2c59f2&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T08:07:48Z&ske=2026-05-18T08:07:48Z&sks=b&skv=2026-02-06&sig=nmx/niJUDuIN/2cjpq2HgHFJuS3z0fHrJ3DPoDoCX1I%3D",
   },
@@ -29,8 +29,8 @@ const stories = [
     cover: "01-stavba-bazena.png",
     scene: "01-stavba-bazenu.png",
     focus: "voda, horúčava a Mokrošov nápad",
-    concept: "Na dračiu horu príde také teplo, že aj kamene pôsobia unavene. Mokroš túži po vode, ostatní po hre a z jedného jednoduchého priania sa začne stavanie, pri ktorom má každý dráčik vlastnú predstavu o pohodlí.",
-    note: "Letná kapitola s veľa vodou a jednoduchou témou spolupráce, keď niekomu je priveľmi teplo.",
+    concept: "Na dračiu horu príde také teplo, že aj kamene pôsobia unavene. Mokroš túži po vode, ostatní po hre a z jedného jednoduchého priania sa započne stavba, pri ktorej každý dráčik priloží labku k dielu.",
+    note: "Letná kapitola s množstvom vody a jednoduchou témou o spolupráci, keď slniečko začne pripekať.",
     url: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-0634-720a-bfc8-502ceb25b5fb/raw?se=2026-05-16T09:59:37Z&sp=r&sv=2026-02-06&sr=b&scid=1fb208be-9e57-40ff-8ad8-c6e6bb14e9a1&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T08:07:50Z&ske=2026-05-18T08:07:50Z&sks=b&skv=2026-02-06&sig=rbXoAGB9KwpfOUV/lv3os/ZMFEb3jyBXJ%2B8JsknQaWc%3D",
   },
   {
@@ -42,7 +42,7 @@ const stories = [
     cover: "02-poletucha-dazd.png",
     scene: "02-poletucha-dazd.png",
     focus: "knihy, oblaky a dážď",
-    concept: "Poletucha sa zobudí s hlavou plnou kníh a s pocitom, že oblohu možno pochopiť, ak sa človek dosť snaží. Lenže medzi múdrym čítaním, odvahou skúšať a tým, čo urobí počasie, je ešte celý vzdušný priestor na omyly.",
+    concept: "Poletucha sa zobudí s hlavou plnou kníh a s pocitom, že oblohu možno pochopiť, ak sa jeden dosť snaží. Lenže medzi múdrym čítaním a tým, čo urobí počasie, je celý vzdušný priestor na omyly.",
     note: "Poletucha zistí, že vedieť niečo z knihy ešte neznamená vedieť to hneď používať.",
     url: "https://sdmntprnortheu.oaiusercontent.com/files/00000000-1f78-71f4-8d35-1a5f45addf06/raw?se=2026-05-16T09:59:40Z&sp=r&sv=2026-02-06&sr=b&scid=3e7afa41-90f1-4679-85bf-0a6c96713a90&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T06:18:10Z&ske=2026-05-18T06:18:10Z&sks=b&skv=2026-02-06&sig=glgtEphA800H4j%2BS%2B0D4NaS9PgN1CAqFqGTl2QIsgDs%3D",
   },
@@ -55,8 +55,8 @@ const stories = [
     cover: "03-nákup-bicyklov.png",
     scene: "03-nakup-bicyklov_.png",
     focus: "prvé bicykle a priveľa nadšenia",
-    concept: "Poletucha v meste zazrie bicykle a dráčiky okamžite vedia, že niečo také potrebujú tiež. Výprava za prvými bicyklami otvorí otázku, čo znamená rýchlosť, rozumný výber a či sa dá každá nová vec prispôsobiť dračím nápadom.",
-    note: "Dobrodružná kapitola o rýchlosti, výbere a tom, že každý dopravný prostriedok potrebuje trochu rozumu.",
+    concept: "Poletucha v meste zazrie bicykle a dráčiky okamžite vedia, že niečo také potrebujú tiež. Výprava za prvými bicyklami odpovie na otázku čo znamená rýchlosť, čo rozumná výška a prečo má bicykel brzdy.",
+    note: "Dobrodružná kapitola o rýchlosti, šantení a tom, že každý dopravný prostriedok potrebuje šoféra s trochou rozumu.",
     url: "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-a9a8-7246-a699-ef0438a713bf/raw?se=2026-05-16T09:59:42Z&sp=r&sv=2026-02-06&sr=b&scid=9a421d93-ad37-4956-804a-3d8ffb83e265&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T08:44:22Z&ske=2026-05-18T08:44:22Z&sks=b&skv=2026-02-06&sig=bWRVfM2lJ16J1ftH/K7Q5HQiqPeLbyza41Eghgw8YJ4%3D",
   },
   {
@@ -69,7 +69,7 @@ const stories = [
     scene: "04-lada-kamarati.png",
     focus: "princezná Lada a nové priateľstvo",
     concept: "Lada je v paláci obklopená pravidlami, bábikami a dospelými povinnosťami, no pohľad za hradby ju láka viac než ďalšia schovávačka v záhrade. Rozprávka sleduje jej cestu k dráčikom a k priateľstvu, ktoré sa nerodí úplne hladko.",
-    note: "Kľúčová kapitola pre vzťah Lady a dráčikov, vhodná po úvodných dobrodružstvách.",
+    note: "Kľúčová kapitola pre vzťah Lady a dráčikov, vhodná na čítanie po úvodných dobrodružstvách.",
     url: "https://sdmntprnortheu.oaiusercontent.com/files/00000000-df50-71f4-9ad8-08763482548e/raw?se=2026-05-16T09:59:57Z&sp=r&sv=2026-02-06&sr=b&scid=df1d238c-51a1-4ab3-82ea-1eb781aeb50b&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T06:00:08Z&ske=2026-05-18T06:00:08Z&sks=b&skv=2026-02-06&sig=c72ZZQTkU57kzMeh4TwjD5IK5mg24Uob74Pb4zea6eI%3D",
   },
   {
@@ -95,7 +95,7 @@ const stories = [
     scene: "06-spievanka-bednicka.png",
     focus: "hračky, pravda a darovanie",
     concept: "Spievanka chce zostrojiť čarovnú bedničku, ktorá by vedela vyrábať ožívajúce hračky. Keď však krásna vec nerobí to, čo má, začína sa tiché hľadanie toho, čo do kúzla patrí a čo sa nedá vyrobiť iba zo súčiastok.",
-    note: "Pokojnejšia, citlivejšia rozprávka o tom, že kamarátstvo nie je to isté ako vlastnenie.",
+    note: "Pokojnejšia, citlivejšia rozprávka o tom, že kamarátstvo nie je to isté ako vlastnístvo.",
     url: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-7ca8-720a-8f89-d43d9e592200/raw?se=2026-05-16T10:00:08Z&sp=r&sv=2026-02-06&sr=b&scid=5ed0238b-ae2c-49c6-be3e-a23ba47dbeab&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T09:31:06Z&ske=2026-05-18T09:31:06Z&sks=b&skv=2026-02-06&sig=W1lx3zDfBLrTQFTV1/TWtGcptXdv%2BsIWkACAzcjFKuc%3D",
   },
   {
@@ -108,7 +108,7 @@ const stories = [
     scene: "07-baba-jaga.png",
     focus: "choroba, pomoc a rozumné spomalenie",
     concept: "Lada musí zostať chorá v posteli, čo je podľa nej jeden z najnespravodlivejších druhov nudy. Keď si privolá pomoc, do paláca vstúpi dračie kamarátstvo, trochu liečenia a hrozba, že niekto využije spomalený deň po svojom.",
-    note: "Rozprávka o tom, že pri chorobe nestačí liek. Veľmi pomôže aj kamarát, ktorý príde.",
+    note: "Rozprávka o tom, že pri chorobe nestačí liek. Veľmi pomôže aj kamarát, ktorý príde keď to najviac potrebuješ.",
     url: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-022c-720a-a9c7-c10be27f04d4/raw?se=2026-05-16T10:00:12Z&sp=r&sv=2026-02-06&sr=b&scid=593b5f1b-2bac-4b96-a701-b841044826d3&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T09:31:36Z&ske=2026-05-18T09:31:36Z&sks=b&skv=2026-02-06&sig=8q5tsilySx4yfsO1Mg/oSLrnXi%2BRssw1aMonnOyVF2I%3D",
   },
 ];
@@ -297,7 +297,7 @@ ${analyticsTag}
       <section class="page-hero">
         <p class="eyebrow">Knižnica</p>
         <h1>Rozprávky</h1>
-        <p class="lead">Vyberte kapitolu a čítajte bez rušenia. Každá stránka má nočný režim, krátku rodičovskú poznámku a šípky na ďalší alebo predošlý príbeh.</p>
+        <p class="lead">Vyberte kapitolu a čítajte bez rušenia reklamami. Každá stránka má nočný režim, krátku rodičovskú poznámku a šípky na ďalší alebo predošlý príbeh.</p>
       </section>
       <nav class="series-tabs" aria-label="Série rozprávok">
         ${seriesNav}
