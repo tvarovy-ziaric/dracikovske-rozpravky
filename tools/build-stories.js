@@ -157,6 +157,13 @@ const paragraphize = (text) =>
 
 const words = (text) => normalizeText(text).split(/\s+/).filter(Boolean).length;
 
+function markdownToStoryText(markdown) {
+  return normalizeText(markdown)
+    .replace(/^# .+?\n+/, "")
+    .replace(/^Zdroj: .+?\n+/, "")
+    .trim();
+}
+
 const analyticsTag = `    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-J6G9STTTB1"></script>
     <script>
@@ -392,13 +399,19 @@ async function main() {
   const storyTexts = new Map();
 
   for (const story of stories) {
-    const text = await downloadStory(story);
-    storyTexts.set(story.slug, text);
-    await fs.writeFile(
-      path.join(mdDir, `${story.slug}.md`),
-      `# ${story.title}\n\nZdroj: Google Drive export, rozprávka ${story.number}.\n\n${normalizeText(text)}\n`,
-      "utf8",
-    );
+    const mdPath = path.join(mdDir, `${story.slug}.md`);
+    try {
+      const markdown = await fs.readFile(mdPath, "utf8");
+      storyTexts.set(story.slug, markdownToStoryText(markdown));
+    } catch (_) {
+      const text = await downloadStory(story);
+      storyTexts.set(story.slug, text);
+      await fs.writeFile(
+        mdPath,
+        `# ${story.title}\n\nZdroj: Google Drive export, rozprávka ${story.number}.\n\n${normalizeText(text)}\n`,
+        "utf8",
+      );
+    }
   }
 
   for (const story of stories) {
