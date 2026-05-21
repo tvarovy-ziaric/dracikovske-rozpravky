@@ -2,7 +2,6 @@
 const path = require("path");
 
 const root = path.resolve(__dirname, "..");
-const rawDir = path.join(root, "content", "rozpravky", "raw");
 const mdDir = path.join(root, "content", "rozpravky");
 const outDir = path.join(root, "rozpravky");
 
@@ -55,7 +54,7 @@ const stories = [
     cover: "03-nákup-bicyklov.png",
     scene: "03-nakup-bicyklov_.png",
     focus: "prvé bicykle a priveľa nadšenia",
-    concept: "Poletucha v meste zazrie bicykle a dráčiky okamžite vedia, že niečo také potrebujú tiež. Výprava za prvými bicyklami odpovie na otázku čo znamená rýchlosť, čo rozumná výška a prečo má bicykel brzdy.",
+    concept: "Poletucha v meste zazrie bicykle a dráčiky okamžite vedia, že niečo také potrebujú tiež. Výprava za prvými bicyklami odpovie na otázku, čo znamená rýchlosť, čo rozumná výška a prečo má bicykel brzdy.",
     note: "Dobrodružná kapitola o rýchlosti, šantení a tom, že každý dopravný prostriedok potrebuje šoféra s trochou rozumu.",
     url: "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-a9a8-7246-a699-ef0438a713bf/raw?se=2026-05-16T09:59:42Z&sp=r&sv=2026-02-06&sr=b&scid=9a421d93-ad37-4956-804a-3d8ffb83e265&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T08:44:22Z&ske=2026-05-18T08:44:22Z&sks=b&skv=2026-02-06&sig=bWRVfM2lJ16J1ftH/K7Q5HQiqPeLbyza41Eghgw8YJ4%3D",
   },
@@ -82,7 +81,7 @@ const stories = [
     scene: "05-zmrzlinar-prazdne-kelimky.png",
     focus: "mesto, zmrzlina a nečakaný problém",
     concept: "V meste sa stane niečo takmer nepredstaviteľné: dôjde zmrzlina. Lada a dráčiky sa ocitnú pri probléme, ktorý vyzerá sladko, no vedie k ceste za zaseknutým cukrom, smutným zmrzlinárom a mestom čakajúcim na dobrú správu.",
-    note: "Veselá mestská kapitola s chuťou zmrzliny a problémom, ktorý treba vyriešiť skôr než sa všetci rozmrzia.",
+    note: "Veselá mestská kapitola s chuťou zmrzliny a problémom, ktorý treba vyriešiť skôr, než sa všetci rozmrzia.",
     url: "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-c4e8-7246-8607-be1e023caac7/raw?se=2026-05-16T10:00:03Z&sp=r&sv=2026-02-06&sr=b&scid=38876c48-ce48-4c1f-84b6-9cb0e6887998&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-15T20:41:59Z&ske=2026-05-17T20:41:59Z&sks=b&skv=2026-02-06&sig=b4H6uQuwqN%2BvQlUhcECcvJcCUM4q5zo5N6bNi0H91fA%3D",
   },
   {
@@ -108,7 +107,7 @@ const stories = [
     scene: "07-baba-jaga.png",
     focus: "choroba, pomoc a rozumné spomalenie",
     concept: "Lada musí zostať chorá v posteli, čo je podľa nej jeden z najnespravodlivejších druhov nudy. Keď si privolá pomoc, do paláca vstúpi dračie kamarátstvo, trochu liečenia a hrozba, že niekto využije spomalený deň po svojom.",
-    note: "Rozprávka o tom, že pri chorobe nestačí liek. Veľmi pomôže aj kamarát, ktorý príde keď to najviac potrebuješ.",
+    note: "Rozprávka o tom, že pri chorobe nestačí liek. Veľmi pomôže aj kamarát, ktorý príde, keď to najviac potrebuješ.",
     url: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-022c-720a-a9c7-c10be27f04d4/raw?se=2026-05-16T10:00:12Z&sp=r&sv=2026-02-06&sr=b&scid=593b5f1b-2bac-4b96-a701-b841044826d3&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-05-16T09:31:36Z&ske=2026-05-18T09:31:36Z&sks=b&skv=2026-02-06&sig=8q5tsilySx4yfsO1Mg/oSLrnXi%2BRssw1aMonnOyVF2I%3D",
   },
 ];
@@ -173,25 +172,6 @@ const analyticsTag = `    <!-- Google tag (gtag.js) -->
 
       gtag('config', 'G-J6G9STTTB1');
     </script>`;
-
-async function downloadStory(story) {
-  await fs.mkdir(rawDir, { recursive: true });
-  const rawPath = path.join(rawDir, `${story.slug}.txt`);
-  try {
-    const existing = await fs.readFile(rawPath, "utf8");
-    if (existing.trim().length > 1000) return existing;
-  } catch (_) {
-    // The file is not present yet; fetch it below.
-  }
-
-  const response = await fetch(story.url);
-  if (!response.ok) {
-    throw new Error(`Nepodarilo sa stiahnuť ${story.slug}: HTTP ${response.status}`);
-  }
-  const text = normalizeText(await response.text());
-  await fs.writeFile(rawPath, text, "utf8");
-  return text;
-}
 
 function storyPage(story, text, allStories) {
   const count = words(text);
@@ -404,13 +384,7 @@ async function main() {
       const markdown = await fs.readFile(mdPath, "utf8");
       storyTexts.set(story.slug, markdownToStoryText(markdown));
     } catch (_) {
-      const text = await downloadStory(story);
-      storyTexts.set(story.slug, text);
-      await fs.writeFile(
-        mdPath,
-        `# ${story.title}\n\nZdroj: Google Drive export, rozprávka ${story.number}.\n\n${normalizeText(text)}\n`,
-        "utf8",
-      );
+      throw new Error(`Chýba zdrojový Markdown pre ${story.slug}: ${mdPath}`);
     }
   }
 

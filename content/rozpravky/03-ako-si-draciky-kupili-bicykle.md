@@ -6,7 +6,7 @@ Ráno v dračej jaskyni začalo celkom obyčajne.
 Slnečný lúč vliezol dnu, pošteklil Uhlíka na nose, Uhlík kýchol, ohnivá guľa zapálila raždie pod kamenným stolom a štyri hrnčeky varenej čokolády sa začali zohrievať presne tak, ako sa patrilo.
 To znamenalo, že deň bude dobrý.
 Alebo aspoň horúci, sladký a pravdepodobne nebezpečný.
-Dráčiky si vzali svoje hrnčeky a vyšli na terasu. Ihrisko sa lesklo v rannom slnku, bazénik sa pokojne čľapkal a pod horou sa v diaľke trblietala rieka. Všetko vyzeralo pokojne.
+Dráčiky si vzali svoje hrnčeky a vyšli na terasu. Ihrisko sa lesklo v rannom slnku, bazénik pokojne čľapkal a pod horou sa v diaľke trblietala rieka. Všetko vyzeralo pokojne.
 A práve vtedy Poletucha povedala:
 „Včera som v meste videla niečo úžasné.“
 Uhlík zdvihol hlavu.
@@ -22,7 +22,7 @@ Mokroš sa zamračil.
 „To je chodenie.“
 „Nie,“ povedala Poletucha. „Pri chodení hýbeš nohami a ideš dopredu pomaly. Na bicykli hýbeš nohami a ideš dopredu rýchlo.“
 „To je behanie,“ povedal Uhlík.
-„Nie,“ povedala Poletucha. „Pri behaní sa unavíš. Na bicykli sa tváriš, že sa neunavíš, až kým sa neunavíš inak.“
+„Nie,“ povedala Poletucha. „Pri behaní sa unavíš. Na bicykli sa tváriš, že sa neunavíš, až kým sa neunavíš, len inak.“
 Spievanka zatlieskala.
 „Chcem bicykel.“
 „Aj ja,“ povedal Mokroš. „Ak sa dá namočiť.“
@@ -36,7 +36,7 @@ Mama dračica otvorila jedno oko.
 „Z múrikov?“
 Mama dračica otvorila aj druhé oko.
 „Začínaš zle.“
-Poletucha múdro stíchla. Nie preto, že by súhlasila, ale preto, že keď mama dračica otvorila obe oči, bolo rozumné nevyjednávať o výškach.
+Poletucha múdro stíchla. Nie preto, že by súhlasila, ale preto, že keď mama dračica otvorila obe oči, bolo rozumné nevyjednávať.
 Mokroš sa opatrne spýtal:
 „Môžeme si ísť do mesta pozrieť bicykle?“
 Mama dračica si preložila chvost cez kúsok pokladu, ktorý sa jej zdal nedostatočne prikrytý.
@@ -55,11 +55,11 @@ Siahla pazúrom do pokladu a vytiahla štyri zlaté mince.
 „Pre deti?“ spýtal sa Mokroš.
 „Pre dráčiky,“ povedala mama. „To je rozdiel.“
 A tak sa vybrali do mesta.
-Poletucha letela nad nimi a robila malé kruhy. Uhlík cupital vpredu, lebo nakupovanie vecí, ktoré môžu byť rýchle, považoval za výpravu. Mokroš sa zastavoval pri každej mláke, čo bolo obdivuhodné, lebo nepršalo. Spievanka si niesla malý batôžtek s koláčmi, povrázkom, lyžicou, dvoma klincami a jedným zvončekom pre prípad, že by bicykel potreboval okamžité vylepšenie.
+Poletucha letela nad nimi a robila malé kruhy. Uhlík cupital vpredu, lebo nakupovanie vecí, ktoré môžu byť rýchle a nebezpečné, považoval za výpravu. Mokroš sa zastavoval pri každej mláke, čo bolo obdivuhodné, lebo dlho nepršalo. Spievanka si niesla malý batôžtek s koláčmi, povrázkom, lyžicou, dvoma klincami a jedným zvončekom pre prípad, že by bicykel potreboval okamžité vylepšenie.
 Mesto už bolo hore.
 Na trhu predávali sedliaci syr, kapustu, jablká, drevené lyžice, hrnce, klobásy a jednu kozu, ktorá sa tvárila, že ona nepatrí nikomu, ale všetci patria jej.
-Kráľovský úradník stál pri stánku so zeleninou a zapisoval škody po včerajšej nehode s vozíkom reďkoviek. Reďkovka je taká zelenina, ktorá je malá, červená a tvári sa ostrejšie, než v skutočnosti je. Deti ju často podozrievajú, že nie je sladkosť.
-A majú pravdu.
+Kráľovský úradník stál pri stánku so zeleninou a zapisoval škody po včerajšej nehode s vozíkom reďkoviek. 
+
 „Kam ideme?“ spýtal sa Uhlík.
 Poletucha pristála pri nich.
 „Videla som ten obchod za zmrzlinárom. V uličke, kde visí tabuľa s dvoma kolesami.“
@@ -81,20 +81,19 @@ A tam bol obchod.
 Nikdy predtým si ho poriadne nevšimli. Stál medzi domom obuvníka a domom pani, ktorá predávala stužky, ihly a klebety.
 Nad dverami visela drevená tabuľa. Boli na nej dve kolesá, medzi nimi sedadlo a pod tým nápis:
 U MAJSTRA KOLESOMILA
- BICYKLE, TROJKOLKY, KOLESOVÉ ČUDÁ
- PRE MALÉ NOHY, VEĽKÉ SNY A ODVÁŽNE KOLENÁ
+BICYKLE, TROJKOLKY, KOLESOVÉ ČUDÁ
+PRE MALÉ NOHY, VEĽKÉ SNY A ODVÁŽNE KOLENÁ
 „Odvážne kolená?“ prečítal Uhlík.
 „To sme my,“ povedala Poletucha.
 Dvere sa otvorili samy.
 Vo vnútri to zacengalo.
-Nie obyčajne.
 Cengnutie sa rozkotúľalo po obchode ako strieborná guľôčka, prebehlo popod regály a vyskočilo až k stropu.
 Dráčiky vošli dnu.
-Obchod bol väčší zvnútra než zvonku. To je pri magických obchodoch veľmi neslušné, ale praktické. Navonok vyzerajú ako malá predajňa, a vnútri sa do nich zmestí pol sveta, tri schody, sedemnásť políc a ešte aj kútik, kde sa niečo samo hýbe.
+Obchod bol väčší zvnútra než zvonku. To je pri magických obchodoch bežné a veľmi praktické. Navonok vyzerajú ako malá predajňa, a vnútri sa do nich zmestí pol sveta, tri schodiská, sedemnásť políc a ešte aj kútik, kde sa niečo samo hýbe.
 A tu sa hýbalo veľa vecí.
 Bicykle stáli v radoch, viseli zo stropu, opierali sa o steny, krútili pedálmi, cengali zvončekmi a niektoré sa pomaly vozili do kruhu, akoby sa nudili.
 Boli tam bicykle malé, veľké, vysoké, nízke, s tromi kolesami, s jedným veľkým kolesom vpredu a malým vzadu, s košíkmi, lampášmi, vlajočkami, perami, trblietkami, pružinami a jeden bicykel, ktorý mal namiesto sedadla malý trón.
-Za pultom stál starček s bradou zatočenou do tvaru riadidiel.
+Za pultom stál starček s bradou zatočenou do tvaru riadítok.
 „Vitajte,“ povedal. „Ja som majster Kolesomil. Bicykle nepredávam. Bicykle zoznamujem.“
 „S kým?“ spýtal sa Uhlík.
 „S deťmi,“ povedal Kolesomil. „A občas s dráčikmi, ak majú dosť rozumu na brzdy.“
@@ -117,11 +116,11 @@ Kolesomil sa usmial.
 Najprv prišiel na rad Uhlík.
 Kolesomil ho zaviedol k zadnej stene, kde stáli bicykle červené, medené, čierne a zlaté. Jeden mal kolesá ako rozžeravené obruče, druhý mal sedadlo z dračej kože, čo Uhlíkovi pripadalo trochu neslušné, a tretí mal na bokoch malé kovové trubice.
 „Tento,“ povedal Kolesomil.
-Bicykel bol červený ako žeravý uhlík. Mal pevný rám, široké pneumatiky a vzadu dve malé raketové trysky.
+Bicykel bol červený ako žeravá pahreba. Mal pevný rám, široké pneumatiky a vzadu dve malé raketové trysky.
 „Raketový bicykel,“ vydýchol Uhlík.
 „Volá sa Ohnivá Strela,“ povedal Kolesomil. „Trysky sa zapnú len vtedy, keď šliapeš rovno, držíš riadidlá a nekričíš nič ako: Pozrite sa na mňa!“
 „Prečo?“ spýtal sa Uhlík.
-„Lebo kto kričí Pozrite sa na mňa!, väčšinou by sa mal pozerať pred seba.“
+„Lebo kto kričí Pozrite sa na mňa!, sa väčšinou nepozerá pred seba.“
 To znelo rozumne, hoci Uhlíkovi to trochu pokazilo radosť.
 Sadol si na bicykel.
 Bicykel pod ním jemne zaburácal.
@@ -131,7 +130,7 @@ Bicykel pod ním jemne zaburácal.
 To Uhlíkovi stačilo.
 Potom prišiel Mokroš.
 Kolesomil ho zaviedol k časti obchodu, kde bola podlaha mokrá. Nie špinavo mokrá, ale pekne mokrá. Ako keby sa tam voda cítila doma.
-Stál tam modrý bicykel s kolesami, ktoré vyzerali ako priehľadné vodné kruhy. Namiesto obyčajných špicov mali malé vlnky a na riadidlách bol zvonček v tvare kvapky.
+Stál tam modrý bicykel s kolesami, ktoré vyzerali ako priehľadné vodné kruhy. Namiesto obyčajného dezénu mali malé vlnky a na riadidlách bol zvonček v tvare kvapky.
 „Tento sa volá Čľupák,“ povedal Kolesomil.
 Mokroš sa rozžiaril.
 „Vie plávať?“
@@ -157,7 +156,7 @@ Poletucha sa zatvárila sklamane.
 Kolesomil zdvihol prst.
 „A rozumné pri tebe nastavím ja.“
 „To nie je fér.“
-„Práve preto to funguje.“
+„Ale funguje to.“
 Poletucha si sadla na Vetromilku. Bicykel sa zľahka nadvihol, akoby ho niekto podfúkol vetrom. Poletucha sa usmiala tak široko, že aj Uhlík uznal, že vyzerá nebezpečne šťastne.
 Nakoniec prišla Spievanka.
 Kolesomil ju chvíľu pozoroval.
@@ -182,7 +181,7 @@ Spievanka sa zamyslela.
 Sadla si na bicykel. Pesnička zacengala zvončekom a z píšťaliek sa ozval veselý tón.
 Bolo rozhodnuté.
 Každý dráčik položil na pult svoju zlatú mincu.
-Kolesomil im k bicyklom pribalil prilby. Uhlíkova bola červená a trochu očadená. Mokrošova modrá a kvapkala, hoci nikto nevedel odkiaľ. Poletuchina zelená mala okuliare proti vetru. Spievankina ružová mala na boku malú rolničku.
+Kolesomil im k bicyklom pribalil prilby. Uhlíkova bola červená a trochu očadená. Mokrošova modrá a kvapkalo z nej, hoci nikto nevedel odkiaľ. Poletuchina zelená mala okuliare proti vetru. Spievankina ružová mala na boku malú rolničku.
 „Pravidlá,“ povedal Kolesomil.
 Dráčiky zastonali.
 „Pravidlá sú ako brzdy,“ povedal starček. „Najprv zdržujú, potom zachraňujú zuby.“
@@ -208,8 +207,8 @@ Potom ich predbehlo kura.
 Uhlík sa zamračil.
 „Toto je nedôstojné.“
 „V meste sa nejazdí rýchlo,“ pripomenula Poletucha.
-„Ja viem,“ povedal Uhlík. „Ale kura.“
-Kura sa obzrelo. Vyzeralo spokojne.
+„Ja viem,“ povedal Uhlík. „Ale kura?“
+Kura sa posmešne obzrelo a spokojne zakotkodákalo.
 To bola chyba.
 Uhlík začal šliapať rýchlejšie.
 Ohnivá Strela pod ním zaburácala.
@@ -217,11 +216,11 @@ Ohnivá Strela pod ním zaburácala.
 Trysky vzadu spravili:
 „Puf.“
 Potom:
-„PUF.“
+„WUF!“
 A potom Uhlík vystrelil ulicou dopredu.
 „Uhlík!“ zakričali ostatní.
-Uhlík letel po dlažbe. Nie naozaj letel, ale išiel tak rýchlo, že jeho výraz zostal o dva kroky za ním. Minul stánok s jablkami, sud s kapustou, sud bez kapusty a kráľovského úradníka, ktorému papier vyletel z ruky tak vysoko, že by potreboval rebrík, aby ho pozbieral.
-„Brzdy!“ kričal Kolesomil z dverí obchodu.
+Uhlík letel po dlažbe. Nie naozaj letel, ale išiel tak rýchlo, že jeho výraz zostal o dva kroky za ním. Minul stánok s jablkami, sud s kapustou, sud bez kapusty a kráľovského úradníka, ktorému papiere vyleteli z ruky tak vysoko, že by potreboval rebrík, aby ich pozbieral.
+„Brzdýýý!“ kričal Kolesomil z dverí obchodu.
 Uhlík stlačil brzdy.
 Ohnivá Strela zastala.
 Uhlík nie.
@@ -232,8 +231,8 @@ Potom sa zo sena ozvalo:
 Kováč vystrčil hlavu z dielne.
 „A seno?“
 Zo sena vyšiel malý dymček.
-Mokroš dobehol na Čľupákovi a pre istotu Uhlíka aj seno pokropil.
-„Hej!“ povedal Uhlík.
+Mokroš dobehol na Čľupákovi a pre istotu Uhlíka aj seno pokropil vodou.
+„Héj!“ ohradil sa Uhlík.
 „Ochrana proti požiaru,“ povedal Mokroš.
 Medzitým Spievanka skúšala Pesničku. Šliapala pravidelne a bicykel hral krásne:
 „Fi-fi-fí, fi-fi-fí.“
@@ -261,7 +260,7 @@ Potom zadným.
 Potom sa celý bicykel rozbehol po hladine.
 Mokroš žiaril.
 „On vie po vode!“
-„Krátko!“ zavolal Kolesomil.
+„Iba krátko!“ zavolal Kolesomil.
 „Čo znamená krátko?“
 V tej chvíli Čľupák klesol.
 ŠPĽACH!
@@ -279,11 +278,11 @@ Zvonček spravil:
 A píšťalky:
 „Fi.“
 Dievčatko s vrkočmi pohladilo Vetromilke krídelko.
-„Ona je krásna.“
+„Aká je krásna.“
 Poletucha sa zatvárila hrdo.
-Z okna paláca sa v diaľke pozerala Lada. Bola ešte ďaleko, za záhradou a za múrom, ale videla na námestí farebný ruch. Videla zelený bicykel, čo sa na chvíľku vzniesol, modrý bicykel, ktorý kvapkal, červený, z ktorého išiel dymček, a ružový, ktorý hral.
+Z okna paláca sa v diaľke pozerala Lada. Bola ďaleko, za záhradou a za múrom, ale videla na námestí farebný ruch. Videla zelený bicykel, čo sa na chvíľku vzniesol, modrý bicykel, ktorý kvapkal, červený, z ktorého išiel dymček, a ružový, ktorý hral.
 Lada pritlačila nos na sklo.
-„Ja chcem vedieť, čo je tam,“ povedala.
+„Chcela by som vedieť, čo to tam je,“ povedala.
 Ale nikto ju nepočul, lebo kráľovná práve v susednej sieni riešila, prečo niekto položil striebornú lyžičku medzi zlaté.
 Na trhu zatiaľ začalo byť príliš rušno.
 Uhlík chcel ukázať, že už vie brzdiť.
@@ -305,10 +304,10 @@ Vetromilka sa nadvihla.
 Pesnička zahrala:
 „Fííí-plonk-cing-bum.“
 Koza s názorom povedala:
-„Mé.“
+„Mé-e-e.“
 Čo v kozom jazyku pravdepodobne znamenalo: amatéri.
 Keď sa prach, voda, dym a hudba usadili, dráčiky sedeli na zemi uprostred námestia. Bicykle stáli okolo nich, trochu urazené, ale celé.
-Kolesomil prišiel pomaly k nim.
+Kolesomil k nim pomaly prišiel.
 „A čo sme sa naučili?“ spýtal sa.
 Uhlík si oprášil nos.
 „Že brzdy sú dôležité.“
@@ -322,7 +321,7 @@ Kolesomil sa usmial.
 „Výborne. Teraz ste pripravení jazdiť.“
 „A predtým sme neboli?“ spýtal sa Uhlík.
 „Predtým ste boli pripravení kúpiť si bicykle,“ povedal Kolesomil. „To je ľahšie.“
-Dráčiky potom jazdili po meste pomalšie. Nie úplne pomaly, lebo boli dráčiky. Ale tak, aby nikomu neprevrátili stánok, nezapálili seno, nevytopili fontánu, nepreleteli cez kráľovské okno a nezahrali pochod priamo pod koňom, ktorý nemal hudobné vzdelanie.
+Dráčiky potom jazdili po meste pomalšie. Nie úplne pomaly, lebo boli dráčiky. Ale tak, aby nikomu neprevrátili stánok, nezapálili seno, nevytopili fontánu či nepreleteli cez kráľovské okno.
 Deti z mesta bežali popri nich.
 Zmrzlinár im mával.
 Kráľovský úradník si radšej sadol na svoje papiere, aby mu neuleteli.
@@ -346,8 +345,8 @@ Spievanka ju obišla do kruhu.
 Cesta späť na horu bola najlepšia cesta späť na horu v celom ich živote.
 Uhlík išiel na Ohnivej Strele a dával si pozor, aby trysky nepoužíval tam, kde bola zákruta, skala, krík alebo niekto s krehkou dušou.
 Mokroš na Čľupákovi prešiel cez každý potôčik, každú mláku a vždy ofŕkal niekoho vedľa.
-Poletucha s Vetromilkou skákala cez korene a krátko plachtila, presne tak krátko, ako by mama dračica možno schválila, keby sa nepozerala.
-Spievanka na Pesničke hrala cestovnú melódiu. Nebola celkom rovná, ale bola šťastná.
+Poletucha s Vetromilkou skákala cez korene a krátko plachtila.
+Spievanka na Pesničke hrala cestovnú melódiu. Nebola celkom rovná, ale bola veselá.
 Keď dorazili na terasu, mama dračica už čakala pred jaskyňou.
 Pozrela sa na štyri bicykle.
 Na štyri prilby.
@@ -366,7 +365,7 @@ A na Spievankin bicykel, ktorý práve zahral malé:
 Uhlík sa zamyslel.
 „Bez opýtania nie.“
 Mama dračica sa naňho pozrela.
-„To bola správna odpoveď?“ spýtal sa potichu Mokroš.
+„Bola to správna odpoveď?“ spýtal sa potichu Mokroš.
 „Neviem,“ šepol Uhlík. „Ešte žijeme.“
 Mama dračica si povzdychla, ale v kútiku papule sa jej mihol úsmev.
 „Dobre. Zaparkujte ich ďalej od pokladu.“
@@ -390,3 +389,4 @@ Na terase sa ozvalo tiché:
 Akoby s tým niektorý bicykel súhlasil.
 Alebo sa smial.
 Pri magických bicykloch si človek nikdy nemôže byť celkom istý.
+

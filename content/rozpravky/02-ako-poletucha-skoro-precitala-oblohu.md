@@ -8,7 +8,7 @@ Uhlík sa zo sna zamračil.
 „Nie,“ zamrmlal.
 Lúč ho pošteklil ešte raz.
 „Hapčí!“
-Z Uhlíkovho nosa vyletela ohnivá guľa, prefrčala ponad spiacich súrodencov, minula maminu zadnú labu, odrazila sa od medeného štítu, ktorý tam kedysi niekto odložil a potom sa k nemu už nikdy nepriznal, a zapadla rovno pod kamenný stôl v kuchyni.
+Z Uhlíkovho nosa vyletela ohnivá guľa, prefrčala ponad spiacich súrodencov, minula maminu zadnú labu, odrazila sa od bronzového štítu, ktorý tam kedysi niekto odložil a potom sa k nemu už nikdy nepriznal, a zapadla rovno pod kamenný stôl v kuchyni.
 Raždie vzbĺklo.
 Kamenná doska sa začala zohrievať.
 Štyri farebné hrnčeky na nej začali jemne klopkať, ako sa v nich zohrievala varená čokoláda.
@@ -56,13 +56,13 @@ Uhlík pozrel von z jaskyne. Nad horou sa naozaj vznášali oblaky. Veľké, bie
 „A čo sa z oblakov číta?“ spýtal sa Uhlík.
 „Počasie. Znamenia. Možno budúcnosť.“
 Mama dračica, ktorá dovtedy spala na poklade a tvárila sa, že nič nepočuje, otvorila jedno oko.
-„Budúcnosť radšej nechajte budúcnosti,“ zamrmlala. „Aj tak príde sama a obyčajne nevie klopať.“
-„Ja budem len opatrne čítať,“ sľúbila Poletucha.
+„Budúcnosť radšej nechajte budúcnosti,“ zamrmlala. „Aj tak príde sama a zvyčajne nezaklope.“
+„Budem to robiť opatrne,“ sľúbila Poletucha.
 Mama dračica zavrela oko.
 „To hovoríš vždy pred tým, než niekde narazíš.“
 Poletucha sa tvárila, že to nepočula. Išlo jej to výborne, lebo keď sa začítala, nepočula naozaj nič.
 Po raňajkách vyšli dráčiky na terasu.
-Terasa bola čoraz krajšia. Na jednej strane stálo ihrisko s húpačkou nad priepasťou, preliezkami, rýchlym kolotočom a hradom na rytierske zápasy. Na druhej strane sa ligotal kamenný bazénik, ktorý si dráčiky postavili v horúci deň, keď Mokroš tvrdil, že sa topí suchom.
+Terasa bola čoraz krajšia. Na jednej strane stálo ihrisko s húpačkou nad priepasťou, preliezkami, rýchlym kolotočom a hradom na rytierske zápasy. Na druhej strane sa ligotal kamenný bazénik, ktorý si dráčiky postavili jedného horúceho dňa, keď Mokroš tvrdil, že sa topí suchom.
 Mokroš si hneď namočil chvost.
 „Len čítaj,“ povedal Poletuche. „Ak z oblohy vyčítaš dážď, mám záujem.“
 Poletucha vyletela na najvyššiu skalu nad jaskyňou, otvorila knihu a začala porovnávať obrázky s oblohou.
@@ -70,8 +70,8 @@ Poletucha vyletela na najvyššiu skalu nad jaskyňou, otvorila knihu a začala 
 „To znamená čo?“ spýtala sa Spievanka.
 Poletucha listovala.
 „Pekné počasie.“
-„To si vedela aj bez knihy,“ povedal Uhlík. „Je pekne.“
-„Veda,“ povedala Poletucha, „je, keď vieš presne, prečo máš pravdu.“
+„To sme vedeli aj bez knihy,“ povedal Uhlík. „Je pekne.“
+„Veda.“ povedala Poletucha, „To je, keď vieš presne, prečo máš pravdu.“
 To znelo veľmi múdro, a tak chvíľu nikto nič nepovedal.
 Potom Poletucha ukázala na ďalší oblak.
 „Aha! Tamten je natiahnutý ako stará ponožka.“
@@ -95,19 +95,19 @@ Poletucha rýchlo listovala v knihe.
 „Možno bude slabý dážď.“
 Z oblaku spadla prvá kvapka.
 Dopadla Uhlíkovi priamo na nos.
-„Toto je osobné,“ povedal Uhlík.
+„Tak toto beriem osobne!,“ zahromžil Uhlík do oblohy.
 Spadla druhá kvapka.
 Potom tretia.
 Potom desať.
 Potom tisíc.
-Za chvíľu pršalo tak, že bazénik bol plný po okraj a Mokroš stál uprostred terasy s otvorenou papuľou, pretože si myslel, že život je krásny a voda zadarmo je najlepší druh vody.
+Za chvíľu pršalo tak, že bazénik bol plný po okraj a Mokroš stál uprostred terasy s otvorenou papuľkou, pretože si myslel, že život je krásny a voda zadarmo je najlepší druh vody.
 „Slabý dážď?“ zakričal Uhlík.
 Poletucha držala knihu pod krídlom a snažila sa ju chrániť pred dažďom.
 „V knihe to vyzeralo menšie!“
 „V knihách vyzerá všetko menšie!“ zakričal Mokroš veselo. „Aj veľryby!“
 Spievanka pobehovala okolo a nastavovala hrnčeky, misky, lyžice a jednu starú prilbu, aby zachytávala vodu.
 „Môžeme z toho urobiť dažďový orchester!“
-Kvapky začali bubnovať na kamene.
+Kvapky začali bubnovať na kovový povrch.
 Ťap.
 Ťup.
 Plink.
@@ -116,7 +116,7 @@ Bum.
 „Počujete?“ zvolala Spievanka. „To je hudba!“
 „To je voda v mojom uchu,“ povedal Uhlík.
 Dážď však neprestával.
-Na terase sa začali robiť mláky. Potom mláčky. Potom mláčiská. Ihrisko sa šmýkalo. Húpačka sa kývala sama od vetra. Kolotoč sa pomaly otáčal, hoci na ňom nikto nesedel. Vyzeralo to, akoby sa ihrisko rozhodlo hrať bez detí, čo bolo trochu neslušné.
+Na terase sa začali robiť mláčky. Potom mláky. Potom mláčiská. Ihrisko sa šmýkalo. Húpačka sa kývala sama od vetra. Kolotoč sa pomaly otáčal, hoci na ňom nikto nesedel. Vyzeralo to, akoby sa ihrisko rozhodlo hrať bez detí.
 „Musíme niečo urobiť,“ povedal Uhlík.
 „Áno,“ povedal Mokroš. „Môžeme sa kúpať.“
 „Niečo iné.“
@@ -182,7 +182,7 @@ Mokroš trhol labkami a dažďový had sa odlepil od kolotoča. Prešmykol sa ce
 Poletucha vyletela nad neho.
 „Zľava! Zľava!“
 Had odbočil doprava.
-„Tvoja druhá zľava!“
+„To druhé zľava!“
 Had sa konečne stočil správne.
 Spievanka pribehla k žľabu s drevenou lopatkou.
 „Tadiaľto musí ísť!“
@@ -191,8 +191,6 @@ Začala spievať rytmus, aby Mokroš vedel, kedy vodu držať a kedy pustiť.
 hadík vie, kam pôjde sám.
 Ak to nevie, poviem mu:
 nech sa neleje k pokladu!“
-„To je veľmi konkrétna pesnička,“ povedal Uhlík.
-„Stavbárska,“ odvetila Spievanka.
 Dažďový had konečne našiel skalný žľab. Vystrčil hlavu ponad okraj terasy, pozrel dolu na rieku a zaváhal.
 „Neboj sa,“ povedal Mokroš. „Ty si voda. Dolu to máš v povahe.“
 Had sa spustil.
@@ -204,10 +202,6 @@ Uhlík zohrieval okraj žľabu tam, kde sa voda príliš rozlievala, aby skala r
 Dážď postupne slabol.
 Sivá perina nad horou sa roztrhla. Najprv na malú dierku. Potom na väčšiu. A napokon cez ňu presvitlo slnko.
 Na terase zostali mláky, mokré ihrisko, úplne plný bazénik a štyri dráčiky, ktoré vyzerali, akoby ich niekto vypral.
-Uhlíka nedosušiť.
-Mokroša neusušiť.
-Poletuchu neudržať.
-A Spievanku nezastaviť.
 Mama dračica sa pozrela na poklad.
 Bol suchý.
 To bolo najdôležitejšie.
@@ -218,7 +212,7 @@ Poletucha sklopila knihu, ktorá mala trochu zvlnené stránky.
 Mama dračica prikývla.
 „A ešte?“
 Poletucha sa zamyslela.
-„Že keď sa niečo naučím z knihy, ešte to neznamená, že to hneď viem robiť.“
+„Že keď sa niečo naučím z knihy, ešte to neznamená, že tomu hneď rozumiem.“
 „Výborne,“ povedala mama.
 Uhlík si sadol na kameň a snažil sa zohriať.
 „A ja som sa naučil, že dážď je nepríjemný.“
@@ -233,8 +227,7 @@ Plink.
 Plonk.
 Ťup.
 Bim.
-Nebolo to úplne pekné.
-Ale bolo to veselé.
+Bolo to celkom veselé.
 Poletucha položila Veľkú knihu oblakov na suchý kameň, otvorila ju na strane o búrkových mrakoch a povedala:
 „Zajtra si prečítam kapitolu o vetre.“
 Mama dračica zavrela oči.
@@ -244,7 +237,7 @@ Spievanka prestala spievať.
 Na terase bolo na chvíľu úplné ticho.
 Potom mama dračica bez otvorenia očí povedala:
 „Zajtra bude knižnica zatvorená.“
-„Ale ty nevieš,“ namietla Poletucha.
+„Ako vieš?,“ namietla Poletucha.
 Mama dračica si položila hlavu na poklad.
 „Viem.“
 „Ako?“
@@ -268,3 +261,4 @@ Potom viac.
 A keď mama dračica o chvíľu otvorila jedno oko, všetky štyri dráčiky už skákali po mlákach, striekali vodu na všetky strany a smiali sa tak nahlas, že aj ten malý obláčik nad horou sa radšej posunul kúsok ďalej.
 Lebo nikdy neviete.
 Najmä pri dráčikoch.
+

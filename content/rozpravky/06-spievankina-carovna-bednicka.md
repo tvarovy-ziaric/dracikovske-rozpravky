@@ -10,8 +10,8 @@ Spievanka chcela bedničku, ktorá bude hračky vyrábať.
 Čarovné hračky.
 Také, ktoré keď ležia na stole, na zemi alebo v posteli, vyzerajú úplne obyčajne. Plyšový škrečok je len plyšový škrečok. Drevený koník je len drevený koník. Handrová bábika je len handrová bábika s jedným uškom trochu nakrivo, čo je pri bábikách často znak múdrosti.
 Ale keď ich niekto vezme do ruky a začne sa s nimi naozaj hrať, ožijú.
-Plyšový škrečok sa zrazu premení na roztomilého živého škrečka, ktorý vie rozprávať ľudskou rečou, rád tancuje a pri vážnych rozhovoroch si pchá líca omrvinkami. Drevený koník začne klusať po stole. Handrová bábika si upraví sukňu, povzdychne si a povie, že konečne niekto pochopil, že potrebuje čaj.
-Takú bedničku chcela Spievanka.
+Plyšový škrečok sa zrazu prebudí ako roztomilá oživená hračka, ktorá vie rozprávať ľudskou rečou, rada tancuje a pri vážnych rozhovoroch si pchá líca omrvinkami. Drevený koník začne klusať po stole. Handrová bábika si upraví sukňu, povzdychne si a povie, že konečne niekto pochopil, že potrebuje čaj.
+Takúto bedničku chcela Spievanka.
 A keď Spievanka niečo chcela vyrobiť, obyčajne to aj vyrobila.
 Vedela rozobrať skoro všetko. A na rozdiel od niektorých to vedela aj poskladať. Pamätala si, čo kam patrí, čo je pri skladaní veľmi užitočné, najmä ak nechcete, aby vám po oprave zostala súčiastka, ktorá vyzerá príliš dôležito na to, aby bola navyše.
 Lenže tentoraz to nešlo.
@@ -30,10 +30,10 @@ Zavrela.
 Otvorila prudšie, akoby sa prázdno dalo prekvapiť.
 Prázdno sa neprekvapilo.
 „Je pokazená,“ povedala napokon.
-Uhlík, ktorý sedel neďaleko a pokúšal sa ohriať si kameň presne tak, aby bol teplý, ale nie dymiaci, sa naklonil bližšie.
+Uhlík, ktorý sedel neďaleko a pokúšal sa ohriať si kameň presne tak, aby bol teplý no nedymil, sa naklonil bližšie.
 „Môžem ju trochu nahriať.“
 „Nie,“ povedali Mokroš a Poletucha naraz.
-Mokroš mal chvost ponorený v bazéniku a tváril sa, že keby mohol, ponorí tam aj zvyšok dňa.
+Mokroš mal chvost ponorený v bazéniku a tváril sa, že keby mohol, ponorí sa tam na zvyšok dňa celý.
 „Možno potrebuje vodu,“ navrhol.
 Spievanka si pritiahla bedničku k sebe.
 „Moja čarovná bednička nebude mokrá.“
@@ -41,7 +41,7 @@ Spievanka si pritiahla bedničku k sebe.
 „Nie knihy,“ ozvala sa Poletucha, ktorá sedela na kamennej lavici a čítala. „A nie plány. Mokré plány sa zle čítajú.“
 Spievanka otvorila bedničku ešte raz.
 Nič.
-„Možno potrebuje pesničku,“ povedala Lada, ktorá bola v ten deň na návšteve na hore. Kráľovná ju pustila s tým, že sa vráti pred večerou, nebude liezť do priepasti a nebude sa dať nikým odniesť do pralesa bez vážneho dôvodu.
+„Možno potrebuje pesničku,“ povedala Lada, ktorá bola v ten deň na návšteve na hore. Kráľovná ju pustila s tým, že sa vráti pred večerou, nebude liezť do priepastí a nebude sa dať nikým odniesť do pralesa bez vážneho dôvodu.
 Lada sedela na okraji terasy, nohy bezpečne ďaleko od zrázu, a skladala z kamienkov malý domček pre budúce hračky.
 Spievanka sa nadýchla a zaspievala bedničke krátku pesničku.
 Najprv jemnú.
@@ -91,7 +91,7 @@ Mama dračica sa pozrela smerom k pralesu.
 „Choď za Babou Jagou.“
 Uhlíkovi sa rozžiarili oči.
 „Výprava?“
-„Nie horiaca,“ povedala mama.
+„Ak nič dôležité nezapáliš,“ povedala mama.
 Mokroš vytiahol chvost z bazénika.
 „Cez prales?“
 „Áno.“
@@ -107,21 +107,21 @@ To bolo spravodlivé.
 A trochu nepríjemné.
 Spravodlivé veci bývajú často trochu nepríjemné, pretože nemajú výhovorky.
 Dráčiky sa teda vybrali do pralesa. Lada s nimi tentoraz nešla. Kráľovná ju pustila k hore, ale prales bol ešte stále prales. A po minulej skúsenosti s jednorožcom sa pri slove prales v paláci zatvárali okná o niečo rýchlejšie.
-Lada teda zostala na terase pri mame dračici. To nebolo také zlé, ako si najprv myslela. Mama dračica síce väčšinou spala, ale keď nespala, vedela odpovedať na otázky tak, že človek potom rozmýšľal ešte dlho.
-Spievanka si vzala bedničku do batôžka. Uhlík išiel vpredu, Mokroš vedľa neho, Poletucha lietala nízko medzi stromami a dávala pozor na cestu. Prešli z lesa do hlbokého lesa a odtiaľ na okraj pralesa, kde stromy začali byť také vysoké, že aj Poletucha musela uznať, že niektoré veci rastú zbytočne sebavedomo.
+Lada teda zostala na terase pri mame dračici. To nebolo také zlé, ako si najprv myslela. Mama dračica síce väčšinou spala, ale keď nespala, vedela odpovedať na otázky tak, že človek ešte dlho potom musel premýšľať.
+Spievanka si vzala bedničku do batôžka. Uhlík išiel vpredu, Mokroš vedľa neho, Poletucha lietala nízko medzi stromami a dávala pozor na cestu. Prešli z lesa do hlbokého lesa a odtiaľ na okraj pralesa,
 V pralese bolo vlhko, zeleno a plno zvukov.
 Opice sedeli v korunách stromov a tvárili sa nevinne. To znamenalo, že určite niečo plánujú. Elfské domčeky vysoko vo vetvách boli pospájané mostíkmi, rebríkmi a lanami, ktoré vyzerali krásne, ale človek by na ne nevkročil bez dobrej poistky alebo veľmi ľahkej duše.
 Jedna banánová šupka spadla tesne vedľa Uhlíka.
 Uhlík zdvihol hlavu.
-„Ešte jedna a opečiem vám obed.“
+„Ešte jedna a opečiem vás na obed.“
 Zhora sa ozvalo opičie zahihňanie a elfské rozhorčené:
 „Vidíte? Aj drakom to robia!“
-Baba Jagina chalúpka stála na čistinke. Nebola na kuracích nohách, lebo Baba Jaga tvrdila, že dom, ktorý chodí, si o sebe začne priveľa myslieť. Chalúpka teda stála pevne, iba komín sa nakláňal do strany, akoby počúval, kto ide.
-Baba Jaga nebola doma vnútri.
+Babina Jagina chalúpka stála na čistinke. Nebola na kuracích nohách, lebo Baba Jaga tvrdila, že dom, ktorý chodí, si o sebe začne priveľa myslieť. Chalúpka teda stála pevne, iba komín sa nakláňal do strany, akoby počúval, kto ide.
+Baba Jaga nebola vnútri.
 Priletela zhora.
 Na metle.
 Samozrejme príliš rýchlo.
-„Uhnúť!“ zvrieskla.
+„Uhníííí!“ zvrieskla.
 Dráčiky sa rozutekali na všetky strany. Baba Jaga pristála v strede čistinky tak, že metla vyryla do zeme brázdu a zastavila sa presne pred Spievankou.
 „Perfektné,“ povedala Baba Jaga spokojne.
 Poletucha na ňu pozerala s obdivom, ktorý bol pre všetkých zúčastnených nebezpečný.
@@ -131,19 +131,19 @@ Baba Jaga si všimla bedničku v Spievankinom batôžku.
 „Aha. Niekto si priniesol problém.“
 Spievanka vytiahla bedničku.
 „Nie problém. Projekt.“
-„To je to isté, len projekt sa tvári slušnejšie.“
+„To je to isté, len projekt sa tvári slušne.“
 Vošli do chalúpky.
-Vnútri to voňalo po bylinkách, mede, dyme, starých knihách, sušených hubách a niečom, čo mohlo byť liek alebo polievka. Pri Babe Jage sa to niekedy zistilo až po tretej lyžici.
+Vnútri to voňalo po bylinkách, mede, dyme, starých knihách, sušených hubách a po niečom, čo mohlo byť liek alebo polievka. Pri Babe Jage sa to niekedy zistilo až po tretej lyžici.
 Na policiach stáli fľaštičky, kamienky, korienky, zväzky tráv, perá, mušle, čudné kostičky a jedna malá nádoba, na ktorej bolo napísané:
 OTVORIŤ IBA KEĎ UŽ JE TO AJ TAK POKAZENÉ
 Spievanka položila bedničku na stôl.
-Baba Jaga si ju prezrela. Nekritizovala ju hneď, čo bolo dobré znamenie. Ale ani ju nepochválila, čo bolo znamenie ešte lepšie, lebo Baba Jaga chválila až vtedy, keď bolo jasné, že vec nevybuchne.
+Baba Jaga si ju prezrela. Nekritizovala ju hneď, čo bolo dobré znamenie. Ale ani ju nepochválila, čo bolo varovné, lebo Baba Jaga chválila až vtedy, keď bolo jasné, že vec nevybuchne.
 „Pekná,“ povedala napokon. „Prázdna.“
 Spievanka sklopila uši.
 „Viem.“
 „A čo má robiť?“
-Spievanka vysvetlila svoj plán. Hračky majú ležať ako obyčajné, ale keď ich niekto vezme a začne sa hrať, ožijú. Nie navždy. Nie proti svojej vôli. Iba počas hry. Keď hra skončí, znova pokojne zostanú hračkami.
-Baba Jaga počúvala. Uhlík sa pozeral na fľaštičky. Mokroš sa pozeral na kotlík, či v ňom nie je voda. Poletucha sa snažila prečítať nápisy na policiach a raz za čas zistila, že niektoré nápisy čítajú ju.
+Spievanka vysvetlila svoj plán. Hračky majú ležať ako obyčajné, ale keď ich niekto vezme a začne sa hrať, ožijú. Nie navždy. Iba počas hry. Keď hra skončí, znova pokojne zostanú hračkami.
+Baba Jaga počúvala. Uhlík sa pozeral na fľaštičky. Mokroš sa pozeral do kotlíka, či v ňom nie je voda. Poletucha sa snažila prečítať nápisy na policiach a raz za čas mala divný pocit, že niektoré nápisy sa snažia prečítať ju.
 „Chceš vyrábať kamarátov?“ spýtala sa Baba Jaga.
 Spievanka sa zarazila.
 „Hračky.“
@@ -173,9 +173,9 @@ Spievanka sa na zvonček pozrela.
 Uhlík si odkašľal.
 Mokroš sa pozrel bokom.
 Poletucha sa zrazu veľmi sústredila na policu.
-Spievanka ich poznala. Vedela, čo si myslia. Keď niečo vyparatila, často klamala. Nie z veľkej zloby. Skôr preto, že nechcela, aby jej pokazenie pokazilo aj obraz, že všetko vie. Bolo ľahšie povedať, že to bola skúška, než priznať, že nevedela.
+Spievanka ich poznala. Vedela, čo si myslia. Keď niečo vyparatila, často klamala. Nie z veľkej zloby. Skôr preto, že nechcela, aby jej zlyhanie pokazilo obraz, že všetko vie. Bolo ľahšie povedať, že to bola skúška, než priznať, že niečo nevedela.
 „Ja neklamem stále,“ povedala.
-Zvonček mlčal.
+Zvonček zacinkal.
 Baba Jaga sa usmiala.
 „Vidíš? Teraz si povedala pravdu. Nepovedala si, že nikdy.“
 Spievanka sa zamračila.
@@ -201,16 +201,16 @@ Spievanke sa trochu triasol hlas.
 Tretie cing bolo najtichšie, ale najjasnejšie.
 Uhlík sa tváril, že si niečo prezerá pri peci, aby nemusel ukázať, že ho to dojalo. Mokrošovi trochu zvlhli oči, čo sa pri ňom ťažko dokazovalo, lebo bol často vlhký celý. Poletucha zavrela knihu, ktorú práve našla, a nič nepovedala, čo bolo od nej veľmi pekné.
 Baba Jaga vzala zvonček a vložila ho do bedničky.
-„Teraz môžeme robiť.“
+„Teraz sa môžeme do toho pustiť.“
 Nasledovala práca.
 Nebola rýchla.
 Nebola ani celkom čistá.
 Baba Jaga miešala v miske bylinky, prach spod postele, kvapku vody a drobné vlákna zo starej bábiky. Spievanka brúsila vnútro bedničky, aby nebolo ostré. Uhlík opatrne zohrieval kovový zámok tak jemne, že sa ani nezačervenal. Bolo to preňho veľmi ťažké, lebo jemnosť pri ohni je ako šepkať počas preteku.
-Mokroš držal kvapku vody vo vzduchu tak, aby nespadla, nerozliala sa a neurobila z celej práce kúpeľ. Poletucha lietala po chalúpke a hľadala na vysokých policiach prísady, ktoré Baba Jaga pomenovala tak rýchlo, že polovica z nich znela ako kýchnutie.
+Mokroš držal kvapku vody vo vzduchu tak, aby nespadla, nerozliala sa a neurobila z celej práce kúpeľ. Poletucha lietala po chalúpke a hľadala na vysokých policiach prísady, ktorých názvy Baba Jaga vykrikovala tak rýchlo, že polovica z nich znela ako kýchnutie.
 Spievanka pri práci nespievala.
 Najprv nie.
 Potom začala potichu.
-Nie veselú pieseň na ukazovanie. Skôr malú pracovnú melódiu, ktorá držala ruky pokope a myšlienky na mieste.
+Nie veselú pieseň. Skôr malú pracovnú melódiu, ktorá držala ruky pokope a myšlienky na mieste.
 Baba Jaga ju nechala.
 Keď bola bednička hotová, nevyzerala oveľa inak než predtým. Bola stále ružová, s medeným zámkom a vyrezávanými okrajmi. Ale teraz mala vo vnútri tiché teplo.
 Nie Uhlíkovo teplo.
@@ -225,7 +225,7 @@ Spievanka položila látku do bedničky.
 „Prvá hračka bude pre Ladu,“ povedala.
 Zvonček vnútri bedničky cinkol.
 Baba Jaga sa usmiala.
-„Teraz si prekročila tieň.“
+„Teraz si prekročila svoj tieň.“
 Bednička sa zachvela.
 Nie prudko. Len jemne, ako keď sa niekto zobudí a ešte sa mu nechce celkom otvoriť oči. Zvnútra sa ozvalo šuchotanie, malé cupkanie a potom tiché písknutie.
 Spievanka otvorila vrchnák.
@@ -251,7 +251,9 @@ Potom sa nadýchla.
 „Ale neurobila som ju sama.“
 Mama dračica sa usmiala tak jemne, že by si to niekto nevšimol.
 Spievanka si to všimla.
-„To je dobre,“ povedala mama.
+„To je dobre,“ povedala mama dračica. "A teraz posledný kúsok skladačky," dodala a natiahla k bedničke pazúr. Z končeka pazúra sa uvoľnila iskrička, taká ako keď sa chytíte niekoho oblečeného v štrikovanom svetri. Bednička sa nepohla. Nezažiarila. Iba tam zrazu bola viac ako pred tým. Už to bola TÁ BEDNIČKA. Jej existencia mala zrazu váhu. 
+
+Mama dračica sa usmiala a pokynula hlavou.
 Lada sa naklonila bližšie.
 „Čo robí?“
 Spievanka otvorila bedničku a vytiahla plyšového škrečka.
@@ -279,7 +281,7 @@ Spievanka stála pri stole a pozerala na škrečka s takou radosťou, že na chv
 „Volám sa Omrvinka,“ oznámil.
 „Ty si chlapec alebo dievča?“ spýtala sa Lada.
 Škrečok sa zamyslel.
-„Som škrečok. To zatiaľ stačí.“
+„To ešte neviem. Som škrečok. To zatiaľ stačí.“
 To všetkým pripadalo rozumné.
 Keď ho Lada položila na stôl a prestala sa s ním hrať, Omrvinka sa pokojne zmenil späť na plyšového škrečka. Ležal bez pohybu, mäkký a obyčajný.
 Lada ho znovu vzala do ruky.
@@ -309,13 +311,11 @@ Spievanka ju objala späť.
 „Ale občas mi ho prinesieš ukázať.“
 „Sľubujem.“
 Omrvinka z Ladiných rúk dodal:
-„A občas prinesiem aj seba.“
-Večer Poletucha odniesla Ladu späť do paláca. Tentoraz letela pokojne, lebo Lada držala Omrvinku a Omrvinka počas letu vyhlásil, že výšky sú pekné, ale z pohľadu škrečka zbytočne veľké.
+„Spravte si tu sklad suchého chleba prosím.“
+Večer Poletucha odniesla Ladu späť do paláca. Tentoraz letela pokojne, lebo Lada držala Omrvinku a Omrvinka počas letu vyhlásil, že výšky sú pekné, ale z pohľadu škrečka zbytočne obrovské.
 V paláci Lada ukázala Omrvinku kráľovnej.
 Kráľovná sa najprv tvárila opatrne. To bol jej prirodzený výraz pri všetkom, čo prišlo od dráčikov, Baby Jagy alebo od oboch naraz. Ale keď Omrvinka spravil úklon a veľmi slušne požiadal o omrvinku z koláča, kráľovná sa usmiala.
-Nie veľa.
-Ale dosť.
-„Bude spať na stole,“ povedala.
+„Bude spať na stole?,“ povedala.
 Omrvinka, ktorý práve ležal ako obyčajný plyšový škrečok, nič nenamietal.
 Na hore medzitým Spievanka sedela pri svojej novej bedničke. Nebola už taká netrpezlivá ako ráno. Neotvárala ju stále dokola. Len po nej prešla labkou a počúvala tiché cinknutie zvončeka vnútri.
 Mama dračica si ľahla na poklad.
@@ -328,3 +328,4 @@ Mama dračica spokojne zavrela oči.
 „To je oveľa väčšie.“
 Spievanka sa usmiala.
 A v bedničke, úplne potichu, cinkol zvonček pravdy.
+

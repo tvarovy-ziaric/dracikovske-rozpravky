@@ -2,10 +2,10 @@
 
 Zdroj: Google Drive export, rozprávka 5.
 
-V meste sa v jeden teplý deň stala taká hrozná vec, že aj veža na radnici vyzerala, akoby sa prekvapene naklonila.
+V meste sa jedného teplého dňa stala taká hrozná vec, že aj veža na radnici vyzerala, akoby sa prekvapene naklonila.
 Došla zmrzlina.
 Nie jedna príchuť.
-Nie dve.
+Ani dve.
 Nie iba pistáciová, čo by niektorí dospelí možno zniesli s dôstojnosťou a deti len s podozrením, že svet prestáva fungovať správne.
 Došla všetka zmrzlina.
 V zmrzlinárstve zostali prázdne nádoby, smutné naberačky a zmrzlinár, ktorý stál za pultom s utierkou v ruke a tváril sa, akoby mu niekto zrušil leto.
@@ -24,11 +24,10 @@ Lenže v ten deň voz neprišiel.
 Niekde sa zasekol.
 A keď sa zasekne voz s cukrom, nezasekne sa len voz.
 Zasekne sa radosť.
-________________
 
 V tom istom čase bola Lada v kráľovskej záhrade s dráčikmi.
-Odkedy ju zachránili v pralese a Poletucha ju večer odniesla späť do paláca, smela sa s nimi stretávať. Kráľovná síce pri každom stretnutí zdvihla obočie, ale už nevyzerala vystrašene, len tak kráľovsky opatrne. Mama dračica na hore zasa usúdila, že priateľstvo s princeznou sa môže niekedy hodiť. Len tak, keby dačo.
-A tak sa v záhrade začalo bežne diať to, čo sa v dobrých záhradách diať má: deti sa hrali.
+Odkedy ju zachránili v pralese a Poletucha ju večer odniesla späť do paláca, smela sa s nimi stretávať. Kráľovná síce pri každom stretnutí zdvihla obočie, ale už nevyzerala vystrašene, len tak kráľovsky opatrne. Mama dračica na hore zasa usúdila, že priateľstvo s princeznou sa môže niekedy hodiť.
+A tak sa v záhrade začalo bežne diať to, čo sa v záhradách diať má: deti sa hrali. Teda deti a dráčiky.
 Mokroš sedel pri jazierku a robil na hladine malé vlnky. Zlatá rybka mu rozprávala svoj príbeh o kaprovi, ktorý tvrdil, že je veľryba, hoci Mokroš ho počul už druhýkrát a Lada asi stý.
 „A potom som mu povedala,“ rozprávala rybka, „že ak je veľryba, nech mi ukáže more.“
 „A ukázal?“ spýtal sa Mokroš.
@@ -38,16 +37,15 @@ Uhlík zatiaľ obchádzal skleník s mäsožravými lianami. Tváril sa, že sa 
 Lada sa usmiala.
 „Len meníš miesto?“
 „Presne.“
-Poletucha sedela na vrchu živého plota, z ktorého mala najlepší výhľad na labyrint aj na pol mesta, a tvrdila, že je to strážna služba. V skutočnosti sa jej jednoducho páčilo sedieť vysoko.
+Poletucha sedela na vrchu živého plota, z ktorého mala najlepší výhľad na labyrint aj na pol mesta, a tvrdila, že je strážna služba. V skutočnosti sa jej jednoducho páčilo sedieť vysoko.
 Spievanka s Ladou stavali z kamienkov, listov, vetvičiek a troch gombíkov malý palác. Mal tanečnú sálu, dielňu, komnatu pre bábiky, padací most a miesto na koláče.
 „V našom paláci dielňa nie je,“ povedala Lada.
 Spievanka sa na ňu pozrela s hlbokým súcitom.
-„Chúďatko dieťa kráľovské...“
 Práve premýšľali, či má mať palác aj tajnú šmykľavku, keď sa z labyrintu ozval krik.
 Zelené chodbičky sa rozšumeli a von vybehla skupina detí z mesta. Boli zadýchané, červené v tvárach a niesli správu, ktorá bola podľa nich vážnejšia než požiarny poplach, roztrhnuté nohavice aj zákaz skákania do fontány.
 „Lada! Dráčiky!“
 „Čo sa stalo?“ spýtala sa Lada.
-Najmenší chlapec sa nadýchol tak hlboko, akoby išiel povedať celú básničku.
+Najmenší chlapec sa nadýchol tak zhlboka, akoby išiel povedať celú básničku.
 „Nie je zmrzlina.“
 Tá veta dopadla do záhrady ako kameň do ticha.
 Uhlík sa narovnal.
@@ -56,20 +54,20 @@ Poletucha zletela zo živého plota.
 Spievanka pustila gombík.
 A Lada zbledla presne tak, ako blednú princezné, keď pochopia, že deň sa práve zmenil z obyčajného na historický.
 „Akože nie je?“ spýtal sa Mokroš.
-„Nie je,“ povedalo dievčatko. „Zmrzlinár nemá cukor.“
+„No nie je,“ vysvetľovalo dievčatko. „Zmrzlinár nemá cukor.“
 „Ani na čokoládovú?“ spýtal sa Uhlík.
 „Ani na čokoládovú.“
 „Ani na prekvapenie?“ šepla Spievanka.
 Deti smutne pokrútili hlavami.
 „Zahajujem vyšetrovanie!“ povedala Poletucha.
 „Zmrzlinové vyšetrovanie,“ spresnil Mokroš.
-A tak sa hra skončila a začala výprava.
+A tak sa hra skončila a začala sa výprava.
 Dráčiky s Ladou sa vybrali do mesta. Záhradný elf, ktorý práve strihal živý plot, sa ich spýtal, kam tak bežia. Keď počul, že došla zmrzlina, prestrihol si od rozrušenia kúsok rukáva a odpadol.
 Na námestí stáli deti pred zmrzlinárstvom v dlhom, nešťastnom rade.
 Nebol to rad na zmrzlinu.
-Bol to rad na sklamanie.
+Bol to rad zúfalstva.
 Zmrzlinár vybehol dráčikom naproti a rukami rozhadzoval tak prudko, že jeho utierka chvíľu vyzerala ako biela zástava.
-„Cukor mal prísť ráno,“ vysvetľoval. „Cez južnú bránu, po starej ceste cez pustatinu. Voz nikde. Kôň nikde. Cukor nikde. A ja mám v obchode viac prázdno než zmrzlinu! Rozumiete? Prázdno!“
+„Cukor mal prísť ráno,“ vysvetľoval. „Cez južnú bránu, po starej ceste cez pustatinu. Voz nikde. Kôň nikde. Cukor nikde. A ja mám v obchode viac prázdna než zmrzliny! Rozumiete? Prázdno!“
 „Cez pustatinu?“ spýtala sa Lada.
 Zmrzlinár ukázal smerom za mesto.
 „Suché miesto. Skaly, prach, bodliaky a stará studňa, v ktorej už dávno nie je voda, ale stále vyzerá ako studňa.“
@@ -78,7 +76,7 @@ Lada bicykel nemala. Zo stajne jej preto požičali malého poníka Hrušku. Hru
 „Neboj sa,“ povedala jej Lada.
 Hruška sa pozrela na Uhlíkov raketový bicykel, na Mokrošovho kvapkajúceho Čľupáka, na Poletuchinu Vetromilku a na Spievankinu Pesničku, ktorá si práve sama od seba cinkla a odfrkla si.
 Bála sa, ale profesionálne.
-Vyrazili južnou bránou.
+Vyrazili cez južnú bránu.
 Za mestom sa dlažba skončila a cesta sa zmenila na prach. Najprv obyčajný prach. Potom hustejší prach. A napokon taký prach, že aj prach by musel odkašliavať. Po stranách cesty rástli bodliaky a suché kríky. Horúci vzduch sa v diaľke vlnil ako priehľadná záclona.
 Mokrošovi sa pustatina nepáčila. Bolo v nej málo vody, málo tieňa a príliš veľa všetkého, čo škrabalo.
 „Toto miesto je pokazené,“ vyhlásil.
@@ -103,11 +101,10 @@ Uhlík sa zamračil.
 „A predsa to niekto mal,“ povedala Poletucha zhora.
 Potom sa spoza skál ozval zvuk.
 Nebolo to zavrčanie.
-Nebolo to zapraskanie.
 Bolo to hlasné, spokojné a veľmi plné:
 „MŇAF!“
 Dráčiky, Lada aj Hruška stuhli. Hruška sa pokúsila vyzerať ako kameň, čo sa jej takmer podarilo, lebo mala správny tvar aj náladu.
-Za skalami našli plytkú kotlinu. Uprostred stál prevrátený voz s cukrom. Kôň bol priviazaný o suchý strom a pokojne obhrýzal bodliak, akoby sa nič mimoriadne nedialo.
+Za skalami našli plytkú kotlinu. Uprostred stál prevrátený voz s cukrom. Kôň mal opraty zamotané okolo suchého stromu a pokojne obhrýzal bodliak, akoby sa nič mimoriadne nedialo. Vozník sedel na skale obďaleč, držal si klobúk oboma rukami a vyzeral ako človek, ktorý si práve overil, že s mlsnou príšerou sa netreba hádať o desiatu.
 Pri voze sedela príšera.
 Bola veľká ako menšia stodola, okrúhla ako sud s nohami a celá pokrytá bielymi chlpatými chumáčmi, do ktorých sa lepil cukor. Mala krátke ruky, veľké oči a papuľu plnú zubov. Niektoré boli ostré, niektoré oblé a jeden zub vyzeral ako malá krivá lyžička.
 Príšera držala vrece cukru a sypala si ho rovno do papule.
@@ -120,14 +117,14 @@ Uhlík sa zatváril sklamane.
 „Všetko zábavné horí.“
 K príšere sa teda priblížili opatrnejšie.
 Nevyzerala zlá. Vyzerala mlsná.
-To je niečo iné. Zlá by chcela robiť zle. Mlsná chcela robiť mňam. Lenže keď niekto kvôli mňam prevráti voz, zviaže koňa a zastaví výrobu zmrzliny v celom meste, začína to byť problém aj bez zloby.
+To je niečo iné. Zlá by chcela robiť zle. Mlsná chcela robiť mňam. Lenže keď niekto kvôli mňam prevráti voz, zamotá koňovi opraty a zastaví výrobu zmrzliny v celom meste, začína to byť problém aj bez zloby.
 „Ten cukor patrí zmrzlinárovi,“ povedala Lada.
 Príšera zdvihla hlavu. V papuli mala toľko cukru, že jej slová vychádzali mäkko a lepkavo.
 „Bol tu.“
 „To neznamená, že je tvoj,“ povedal Uhlík.
 Príšera sa zamyslela. Vyzerala úprimne prekvapená, že cítiť cukor a zjesť cukor nie je to isté ako mať na cukor právo.
 „Nie?“
-„Nie,“ povedali všetci zborovo, teda okrem Hrušky. Hruška povedala tiché frknutie, ktoré znamenalo približne to isté.
+„Nie,“ povedali všetci zborovo, teda okrem Hrušky. Hruška si ticho odfrknla, čo znamenalo približne to isté.
 Príšera si povzdychla. Z papule jej vyšiel sladký lepkavý dych. Dráčikom sa na chvíľu zlepili pery.
 „Mmmf!“ povedal Uhlík nahnevane.
 „Mmmf,“ dodal Mokroš.
@@ -136,8 +133,7 @@ Poletucha z výšky zistila, že veľká časť vriec je ešte zachránená. Ak 
 Len bolo treba prísť na to ako.
 Mokroš navrhol vodu, lebo cukor sa vo vode rozpúšťa, ale Lada mu pripomenula, že zmrzlinár potrebuje cukor suchý. Uhlík navrhol zastrašenie, ale príšera bola priveľká a možno by sa iba zľakla tak, že by zjedla ešte jedno vrece na upokojenie. Poletucha navrhla odlákať ju, ale nebolo jasné, čím sa dá odlákať niekto, kto sedí priamo pri cukre.
 Nakoniec sa na ňu Lada pozrela inak než ostatní.
-Nie ako na príšeru.
-Ako na niekoho, kto možno nikdy nepočul, že môže prestať.
+Nie ako na príšeru ale ako na niekoho, kto možno nikdy nepočul, že so závislosťou môže prestať.
 „Ako sa voláš?“ spýtala sa.
 Príšera sklopila vrece.
 „Neviem.“
@@ -147,11 +143,11 @@ Spievanka okamžite spozornela. Podľa nej tvor bez mena potreboval meno skôr n
 „Čo tak Cukrožrútka?“ navrhla.
 Príšera si slovo chvíľu prevaľovala v hlave.
 „Pravdivé.“
-„Ale trochu neslušné,“ povedala Lada. „Čo Mlsanda?“
-Príšera sa usmiala. Bolo to lepkavé, ale milé.
+„Ale trochu neslušné,“ povedala Lada. „A čo Mlsanda?“
+Príšera sa usmiala. Bolo to lepkavé a milé.
 „Mlsanda.“
 Od tej chvíle sa s ňou dalo rozprávať ľahšie.
-Vysvitlo, že Mlsanda vlastne nebola hladná. Mala len stále chuť na sladké. Keď zacítila voz s cukrom, prišla za vôňou, a keď ho našla, nevedela prestať. To dráčiky chápali viac, než by bolo vhodné priznať, lebo všetci už aspoň raz jedli zmrzlinu tak, že prestali až vtedy, keď ich bolelo bruško.
+Vysvitlo, že Mlsanda vlastne nebola hladná. Mala len stále chuť na sladké. Keď zacítila voz s cukrom, prišla za vôňou, a keď ho našla, nevedela prestať. To dráčiky chápali viac, než by bolo vhodné priznať, lebo všetci už aspoň raz jedli zmrzlinu tak dlho, že prestali až keď ich už bolelo bruško.
 Lenže mesto potrebovalo cukor späť.
 Lada, Spievanka a Mokroš začali premýšľať, čo by sa dalo urobiť, aby Mlsanda nemusela prepadávať vozy. Zmrzlinár mal predsa veľa ovocných zvyškov, nepodarených sirupov a príchutí, ktoré už ani deti nechceli skúšať bez svedka. Baba Jaga vedela z čudných vecí vyrábať ešte čudnejšie veci.
 „Lízacie kamene,“ povedala Spievanka zrazu.
@@ -177,7 +173,7 @@ Mlsanda smutne prikývla. Aj obyčajná lyžica cukru bola lepšia než žiadna 
 Potom pomohla postaviť voz na kolesá.
 Ukázalo sa, že je nesmierne silná. Chytila voz zozadu a potlačila ho tak ľahko, akoby viezol pierka a nie vrecia cukru. Kôň sa tváril spokojne, lebo zrazu mal menej práce. Hruška sa tvárila opatrne, lebo každý, kto je silnejší než voz, si zaslúži rešpekt.
 Cesta späť do mesta bola zvláštna a slávnostná.
-Vpredu šiel voz s cukrom. Za ním kráčala Mlsanda a tlačila ho. Občas si povzdychla nad vôňou cukru, ale držala sa statočne. Lada išla na Hruške vedľa nej a dozerala na dohodu ako malá kráľovná výpravy. Dráčiky jazdili okolo na bicykloch. Uhlík strážil vpredu, Mokroš kontroloval kolesá, Poletucha krúžila zhora a Spievanka hrala na Pesničke tichú víťaznú melódiu, aby sa Mlsande ľahšie odolávalo.
+Vpredu šiel voz s cukrom. Vozník držal koňa pri hlave a každú chvíľu sa obzeral, či si to celé náhodou nerozmyslí. Za vozom kráčala Mlsanda a tlačila ho. Občas si povzdychla nad vôňou cukru, ale držala sa statočne. Lada išla na Hruške vedľa nej a dozerala na dohodu ako malá kráľovná výpravy. Dráčiky jazdili okolo na bicykloch. Uhlík strážil vpredu, Mokroš kontroloval kolesá, Poletucha krúžila zhora a Spievanka hrala na Pesničke tichú víťaznú melódiu, aby sa Mlsande ľahšie odolávalo.
 Keď dorazili k južnej bráne, deti ich zbadali prvé.
 Správa sa rozbehla mestom rýchlejšie než koza, ktorá zacítila otvorený sklad kapusty.
 Voz s cukrom sa vrátil.
@@ -218,7 +214,8 @@ Lada jej podala malý lístok so zmrzlinárovým znakom.
 „Prídeš do mesta a povieš. Nezožerieš voz.“
 Mlsanda prikývla.
 „To bude nové.“
-„Nové veci sú dobré,“ povedala Spievanka. „Ak nevybuchnú.“
+„Nové veci sú niekedy dobré,“ usúdila nahlas Spievanka. 
+
 Večer sa Lada vrátila do paláca s čokoládovou škvrnou na šatách a s mlsným zubom zabaleným vo vreckovke. Kráľovná si ju prezrela a pochopila, že jej dcéra zažila dobrodružstvo. Nie malé záhradné dobrodružstvo, pri ktorom sa stratí bábika v kríku. Skutočné dobrodružstvo s pustatinou, príšerou a zmrzlinou.
 Tentoraz si kráľovná hneď našla čas.
 Sadli si spolu pri čaji a Lada jej všetko porozprávala. O deťoch, ktoré prišli do záhrady. O prázdnom zmrzlinárstve. O stopách v prachu. O Mlsande. O zube, ktorý vyzeral ako lyžička.
@@ -235,4 +232,4 @@ A v Ladinej komnate ležal na nočnom stolíku mlsný zub zabalený vo vreckovke
 Nehýbal sa.
 Nehrýzol.
 Len sa občas v mesačnom svetle zaleskol, akoby vedel, že raz z neho Baba Jaga vyrobí niečo čarovné.
-A možno aj trochu sladké.
+

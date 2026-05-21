@@ -5,7 +5,7 @@ Zdroj: Google Drive export, rozprávka 4.
 V kráľovskom paláci bolo v ten deň všetko presne také, ako býva v palácoch, keď sa dospelí rozhodnú, že budú veľmi dôležití.
 Kráľ sedel v trónnej sále a rozhodoval, či má pekár právo piecť rožky v tvare podkovy, keď kováč tvrdí, že mu tým kazí remeslo.
 Kráľovná mala audiencie. To znamenalo, že sedela v krásnych šatách, pila čaj a počúvala ľudí, ktorí rozprávali tak dlho, že aj čaj vychladol od nudy.
-Traja princovia boli na love. Aspoň tak to ráno povedali. V skutočnosti sa pokojne mohlo stať, že nelovili oni, ale niečo lovilo ich. Pri princoch sa to nikdy nedalo vedieť hneď.
+Traja princovia boli na love. Aspoň tak to ráno povedali. V skutočnosti sa pokojne mohlo stať, že nelovili oni, ale niečo lovilo ich. Pri princoch sa to nikdy nedalo vedieť dopredu.
 A Lada sa nudila.
 Najprv premiestnila bábiky v komnate podľa výšky.
 Potom podľa farby šiat.
@@ -15,16 +15,16 @@ Nakoniec ich všetky položila na posteľ a povedala:
 „Vy sa aspoň nehýbete. To je vaša výhoda aj problém.“
 Bábiky neodpovedali. Bábiky bývajú v tomto veľmi tvrdohlavé.
 Lada si povzdychla a vyšla do kráľovskej záhrady.
-Tam bolo krásne. Kvety kvitli, fontány zurčali a živý plot rástol tak rýchlo, že záhradný elf za ním pobehoval s nožničkami a vyzeral, akoby bojoval s veľmi zeleným nepriateľom. V labyrinte piadidetičky pišťali od radosti a od toho, že jedno z nich našlo slimáka, ktorý podľa nich určite niečo tajil.
+Tam bolo krásne. Kvety kvitli, fontány zurčali a živý plot rástol tak rýchlo, že záhradný elf za ním pobehoval s nožničkami a vyzeral, akoby bojoval s veľmi zeleným nepriateľom. V labyrinte piadidetičky pišťali od radosti lebo jedno z nich našlo slimáka, ktorý podľa nich určite niečo tajil.
 Lada však nemala náladu na schovávačku.
 Prešla popri mäsožravých lianách za sklom.
-„Dobrý deň,“ povedala im slušne.
+„Dobrý deň,“ pozdravila sa slušne.
 Jedna liana sa pohla.
 „Nie,“ povedala Lada. „Dnes nie.“
 Liana sa tvárila, že len cvičí.
 Lada pokračovala až za labyrint, na lúku pri skale, ktorá vyzerala ako trojhlavý troll s batohom skamenených zemiakov. Pri skale si potichu čľapkalo jazierko a v ňom žila zlatá rybka na dôchodku.
 „Ahoj,“ povedala Lada a prisypala do vody odrobinky.
-Zlatá rybka sa vynorila tak rýchlo, ako sa dôchodkyňa vynorí, keď počuje slovo koláč.
+Zlatá rybka sa vynorila tak rýchlo, ako sa dôchodkyňa zjaví, keď počuje slovo koláč.
 „Laduška!“ zvolala. „Práve som ti chcela rozprávať môj príbeh o kaprovi, ktorý tvrdil, že je veľryba.“
 „Ten poznám,“ povedala Lada.
 „Tak o stratenom háčiku.“
@@ -33,12 +33,12 @@ Zlatá rybka sa vynorila tak rýchlo, ako sa dôchodkyňa vynorí, keď počuje 
 „Aj ten.“
 Rybka sa zamyslela.
 „A čo štvrtý?“
-„Ten nepoznáš ani ty celý,“ povedala Lada.
+„Ten nepoznáš celý ani ty,“ zasmiala sa Lada.
 „Pravda,“ priznala rybka. „Ale mám rada začiatok.“
 Lada si sadla k jazierku a oprela si bradu o kolená.
 „Ja by som chcela za hradby,“ povedala potichu. „Do lesa. K hore. Ku dráčikom.“
-Zlatá rybka zavrtela chvostom.
-„Za hradbami je svet. Svet je krásny, ale má zuby, blato a občas sú tam ľudia, ktorí nevedia, kam idú.“
+Zlatá rybka sa nervózne zavrtela, až to čľuplo.
+„Za hradbami je svet. Svet je krásny, ale má zuby, je blatistý a občas tam blúdia ľudia, ktorí ani nevedia, kam idú.“
 „Aj tak,“ povedala Lada.
 Vtom sa ozvalo:
 „Za hradbami je aj magický svet.“
@@ -51,39 +51,38 @@ Zlatá rybka prevrátila oči.
 „So mnou?“
 „Samozrejme.“
 „Minule si trištvrte hodiny rozprával o svojom chvoste.“
-„Bol to dobrý chvost.“
-„Bol to ten istý chvost ako dnes.“
-Jednorožec sa otočil bokom, aby bolo chvost lepšie vidieť.
+„Je to dobrý chvost.“
+Jednorožec sa otočil bokom, aby ho bolo lepšie vidieť.
 „Že je krásny?“
 Lada naňho hľadela s otvorenými ústami.
 „Ty si skutočný jednorožec.“
 Jednorožec sa usmial.
 „Áno. A veľmi vydarený.“
-Zlatá rybka si ticho odfúkla bublinu.
+Zlatá rybka potichu vyfúkla bublinu.
 „Ja som Lada,“ povedala Lada.
-„Princezná,“ doplnil jednorožec. „Viem. Vidno to podľa šiat, postoja a toho, že sa nudíš vznešenejšie než obyčajné deti.“
+„Princezná Lada,“ doplnil jednorožec. „Viem. Vidno to podľa šiat, postoja a toho, že sa nudíš vznešenejšie než obyčajné deti.“
 „Ja sa nenudím vznešene,“ namietla Lada. „Ja sa nudím úplne obyčajne.“
 „Potom je to vážne,“ povedal jednorožec.
 Lada sa naklonila dopredu.
 „Ty poznáš magický svet?“
 Jednorožec zdvihol hlavu.
-„Dieťa, ja som magický svet.“
+„Dieťa, ja SOM magický svet.“
 Zlatá rybka zakašľala. Na rybu to bol výkon.
 Jednorožec ju ignoroval.
-„Poznám lesné chodníky, čistinky, miesta, kde tráva svieti, kde kvety šepkajú, kde víly tancujú, keď si myslia, že sa nikto nepozerá, a kde prales vonia tak, že aj mach má pocit, že je dôležitý.“
+„Poznám lesné chodníky, čistinky, miesta, kde tráva svieti, kde si kvety šepkajú, kde víly tancujú, keď si myslia, že sa nikto nepozerá, a kde prales vonia tak, že aj mach má pocit, že je dôležitý.“
 Lade sa rozžiarili oči.
 „Ukážeš mi to?“
-Zlatá rybka hneď povedala:
+Zlatá rybka sa hneď ozvala:
 „Nie.“
-Jednorožec hneď povedal:
-„Samozrejme.“
+
+„Samozrejme,“ vyhŕkol jednorožec spolu s ňou.
 Obaja sa na seba pozreli.
-„Ona je dieťa,“ povedala rybka.
+„Je to ešte len dieťa,“ povedala rybka.
 „Ja som jednorožec,“ povedal jednorožec.
 „Práve preto sa bojím.“
 Jednorožec si načuchral hrivu.
 „Som neporaziteľný.“
-„Ona nie,“ povedala rybka.
+„Ale ona nie,“ povedala rybka.
 Jednorožec sa na chvíľu zarazil. Len na chvíľu. Potom sa rozhodol, že tá myšlienka je príliš nepohodlná, a elegantne ju obišiel.
 „Pôjdeme len kúsok,“ povedal.
 Lada vyskočila.
@@ -95,7 +94,7 @@ Lada stuhla.
 „Mama má audienciu.“
 „Tak kráľovi.“
 „Kráľ rieši rožky a podkovy.“
-„Tak niekomu.“
+„Tak aspoň niekomu.“
 Lada pozrela na palác.
 Potom za hradby.
 Potom na jednorožca.
@@ -103,7 +102,7 @@ Potom na jednorožca.
 To je veta, ktorou sa začalo veľa rozprávkových problémov.
 Jednorožec sa uklonil.
 „Nasleduj ma.“
-A tak Lada nasledovala jednorožca cez záhradu. Prešli popri labyrinte, popri záhradnom elfovi, ktorý práve strihal živý plot a mrmlal si: „Rastieš, anciáša tvojho?“ Prešli popri skleníku s lianami, ktoré vyzerali sklamane, že dnes nikto nejde príliš blízko. A potom prišli až k malej bránke v záhradnom múre.
+A tak Lada nasledovala jednorožca cez záhradu. Prešli popri labyrinte, popri záhradnom elfovi, ktorý práve strihal živý plot a mrmlal si: „Rastieš, rastieš, anciáša tvojho?“ Prešli popri skleníku s lianami, ktoré vyzerali sklamane, že dnes nikto nejde príliš blízko. A potom prišli až k malej bránke v záhradnom múre.
 Jednorožec sa dotkol rohom zámky.
 Cvak.
 Bránka sa otvorila.
@@ -118,11 +117,11 @@ Stopy v blate.
 Koreň, ktorý vyzeral ako spiaca ruka.
 List, ktorý mal tvar srdca.
 „Toto je úžasné,“ šepla.
-„Áno,“ povedal jednorožec. „A ja v tom vyzerám výborne.“
+„Áno,“ povedal jednorožec. „A ako výborne v tom vyzerám!“
 Ako šli hlbšie, obyčajný les sa menil. Stromy boli vyššie, tiene zelenšie a vzduch voňal vlhko a sladko. Niekde v diaľke zakričala opica. Potom druhá. Potom sa ozvalo nahnevané elfské:
 „Kto mi hodil šupku na balkón?!“
 „Sme v pralese?“ spýtala sa Lada.
-„Na jeho okraji,“ povedal jednorožec. „Tam, kde sa svet začína tváriť, že má tajomstvá.“
+„Na jeho okraji,“ povedal jednorožec. „Tam, kde sa svet začína tváriť, že má  veľké tajomstvá.“
 Pred nimi sa otvorila čistinka.
 Bola krásna. Tráva na nej bola mäkká, kvety mali farby, ktoré Lada nevedela pomenovať, a uprostred rástol strom s dutinou, v ktorej svietili malé zlaté mušky.
 „To sú víly?“ spýtala sa.
@@ -162,7 +161,7 @@ Možno opica.
 Možno vietor.
 Jednorožec sa obzrel za zvukom.
 „Čo to bolo?“
-„Neviem,“ povedal vlk. „Ale ak je to jedlé, bol som tu prvý.“
+„Neviem,“ povedal vlk a oblizol si labu. „Ale ak je to jedlé, bol som tu prvý.“
 Jednorožec zbledol. Teda, on bol biely už predtým, ale teraz bol biely tak, že by sa stratil v múke.
 „Ja... ja to strategicky obídem,“ povedal.
 „Čo?“ spýtala sa Lada.
@@ -180,20 +179,20 @@ Vlk sa posadil a poškriabal sa za uchom.
 Lada cúvala, až narazila chrbtom do stromu.
 „Ja som princezná.“
 Vlk prikývol.
-„To môže byť chrumkavejšie?“
+„Je to chrumkavejšie?“
 „Nie!“
 „Škoda.“
 Vtom sa z lesa ozvalo cing.
 Potom druhé cing.
 Potom fi-fi-fí.
 Potom čľup.
-Potom hlboké:
+Potom piskľavé:
 „Uhlík, nechoď tak rýchlo!“
 A na čistinku vtrhli dráčiky.
 Najprv Uhlík na červenej Ohnivej Strele, trochu očadený a veľmi odhodlaný.
 Za ním Mokroš na modrom Čľupákovi, ktorý prešiel cez mláku tak nadšene, že mláka na chvíľu stratila tvar.
 Potom Spievanka na ružovej Pesničke, ktorá pri každom otočení kolies zahrala veselý tón.
-A nad nimi Poletucha na Vetromilke, ktorá krátko kĺzala vzduchom a tvárila sa, že je to presne také nízko, ako sľúbila.
+A nad nimi Poletucha na Vetromilke, ktorá krátko kĺzala vzduchom a tvárila sa, ide presne tak nízko, ako sľúbila.
 Zastali.
 Všetci sa pozreli na Ladu.
 Potom na vlka.
@@ -209,16 +208,16 @@ Vlk sa postavil.
 „Žrania princeznej?“ spýtal sa Uhlík.
 „Možno,“ povedal vlk. „Nechcem klamať, keď si nie som istý.“
 Uhlíkovi z nozdier vyšiel dym.
-„Tak teraz si buď istý, že nebudeš.“
+„Tak teraz si buď istý, že ju žrať nebudeš.“
 Mokroš sa postavil vedľa neho.
 „Lebo ak sa priblížiš, oblejeme ťa.“
 „A opálime,“ dodal Uhlík.
-„A zaspievame ti takú pieseň, že odídeš dobrovoľne,“ povedala Spievanka.
+„A zaspievame ti takú pesničku, že odídeš dobrovoľne,“ povedala Spievanka.
 Vlk sa zatváril znepokojene.
-„Akú pieseň?“
+„Akú pesničku?“
 Spievanka sa nadýchla.
 Vlk okamžite cúvol.
-„Dobre, dobre. Nemusíme hneď používať najhoršie veci.“
+„Dobre, dobre! Nemusíte hneď používať najsilnejšie zbrane.“
 Poletucha zletela nižšie a pristála medzi Ladou a vlkom.
 „Choď domov.“
 Vlk sa poobzeral.
@@ -243,7 +242,7 @@ Mokroš sa pozrel na miesto, kde zmizol jednorožec.
 Uhlík odfrkol.
 „Ten samoľúby?“
 Poletucha prikývla.
-„Videla som ho minule pri rieke. Obdivoval sa v hladine tak dlho, že si nevšimol, že stojí v bahne.“
+„Videla som ho minule pri rieke. Obdivoval sa v hladine tak dlho, že si nevšimol, ako sa ponára do bahna.“
 „Sľúbil, že mi ukáže svet,“ povedala Lada. „A potom zmizol.“
 Spievanka sa zamračila.
 „To sa nerobí.“
@@ -260,7 +259,7 @@ Lada naňho pozrela.
 Lada sa prvýkrát zasmiala.
 „Môžem ísť?“
 Poletucha sa pozrela na ostatných.
-„Do paláca ťa odnesiem pred večerom,“ povedala. „A budeme dávať pozor.“
+„Do paláca ťa odnesiem pred večerom,“ povedala. „A budeme na teba dávať pozor.“
 „Naozaj?“
 „Naozaj,“ povedala Spievanka. „Teraz si s nami.“
 A tak Lada šla s dráčikmi.
@@ -291,7 +290,7 @@ Spievanka sa rozžiarila.
 „Tak to je výborné.“
 „Že sa so mnou nikto nehrá?“
 „Nie. Že sa so mnou budeš hrať ty.“
-Lada sa usmiala tak, že sa jej z očí vytratilo posledné vystrašenie.
+Lada sa usmiala a z očí sa jej vytratili posledné známky vystrašenia.
 Cesta do pralesa bola dobrodružná. Videli stromy, ktoré mali korene ako prepletené prsty. Videli kvety, ktoré sa zatvárali, keď okolo prešiel Uhlík, lebo asi cítili teplo a nechceli byť usušené. Videli opice, ktoré sedeli na konároch a šúpali ovocie.
 Jedna opica hodila šupku.
 Trafila Mokrošovi prilbu.
@@ -317,10 +316,10 @@ Baba Jaga si všimla Ladu.
 „Vlkovi?“ Baba Jaga si založila ruky vbok. „Ten zábudlivý chlpáč zasa nevie, koho má žrať?“
 „Asi,“ povedala Lada.
 Baba Jaga si ju prezrela od hlavy po päty.
-„No. Na princeznú si celkom celá.“
+„No. Na princeznú, čo ju chcel zožrať vlk si celkom celá.“
 „Ďakujem,“ povedala Lada, lebo nevedela, čo iné sa na to hovorí.
 Vošli dnu.
-Chalúpka voňala po bylinkách, dyme, mede, sušených jablkách a niečom, čo sa tvárilo ako liek, ale mohla to byť aj večera. Na poličkách stáli fľaštičky. Niektoré bublali. Jedna si potichu spievala. Druhá mala na sebe nápis: NEPIŤ, IBA AK NAOZAJ, čomu rozumela iba Jaga.
+Chalúpka voňala po bylinkách, dyme, mede, sušených jablkách a niečom, čo sa tvárilo ako liek, ale mohla to byť aj večera. Na poličkách stáli fľaštičky. Niektoré bublali. Jedna si potichu spievala. Druhá mala na sebe nápis: NEPIŤ, IBA AK NAOZAJ, čomu rozumela iba ak Jaga.
 Baba Jaga prevzala bylinky od mamy dračice.
 „Výborne. Toto potrebujem na masť proti popŕhleniu od urazených žihľiav.“
 „Žihľavy sa urážajú?“ spýtala sa Lada.
@@ -339,7 +338,7 @@ Lada sa usmiala.
 Spievanka sa na ňu pozrela.
 „Páči sa ti?“
 „Veľmi.“
-Spievanka sa zatvárila tak šťastne, až jej skoro spadli všetky drobné klamstvá, ktoré si pripravila pre prípad, že sa vecička rozpadne.
+Spievanka sa zatvárila tak šťastne a opadli z nej všetky drobné klamstvá, ktoré si pripravila pre prípad, že sa vecička rozpadne.
 Nerozpadla sa.
 Baba Jaga im dala malinový čaj, medové placky a každému jednu radu. Babine Jagine rady boli zvláštne, lebo zneli múdro aj podozrivo naraz.
 Uhlíkovi povedala:
@@ -347,9 +346,9 @@ Uhlíkovi povedala:
 Mokrošovi:
 „Voda si nájde cestu, ale nie vždy tú, ktorú si jej vytýčil.“
 Poletuche:
-„Kto lieta príliš vysoko, vidí ďaleko, ale nevidí si vlastný nos.“
+„Kto lieta príliš vysoko, dovidí síce ďaleko, ale nevidí si vlastný nos.“
 Spievanke:
-„Keď niečo rozoberieš, aspoň sa tvár, že vieš, prečo.“
+„Keď niečo rozoberieš, aspoň sa tvár, že to vieš zložiť.“
 A Lade povedala:
 „Keď ti niekto sľúbi magický svet, spýtaj sa, či pozná cestu späť.“
 Lada prikývla.
@@ -359,10 +358,10 @@ Lada zosmutnela.
 „Ja nechcem, aby to skončilo.“
 Spievanka sa k nej pritúlila.
 „Neskončí.“
-Potom sa prehrabala vo svojom malom batôžku a vytiahla ruženín. Bol hladký, ružový a vnútri sa mu mihotalo jemné svetielko.
+Potom sa prehrabala vo svojom malom batôžku a vytiahla oblý ruženín. Bol hladký, ružový a vnútri sa mu mihotalo jemné svetielko.
 „Toto mám od maminky,“ povedala. „Je z nášho pokladu. Vraj je v ňom trošku dospelej dračej mágie, takže ho nemám používať na hlúposti.“
 „A čo robí?“ spýtala sa Lada.
-„Keď budeš naozaj potrebovať pomoc,“ povedala Spievanka vážne, „pošúchaj ho. Nie keď sa budeš nudiť. Nie keď budeš chcieť koláč. Nie keď budeš chcieť, aby niekto za teba upratal bábiky. Iba keď to budeš fakt potrebovať. A ja sa k tebe premiestnim.“
+„Keď budeš naozaj potrebovať pomoc,“ povedala Spievanka vážne, „pošúchaj ho. Nie keď sa budeš nudiť. Ani keď budeš chcieť koláč. A už vôbec nie keď budeš chcieť, aby niekto za teba upratal bábiky. Iba keď to budeš fakt potrebovať. A ja sa k tebe premiestnim.“
 Lada ho vzala do dlaní.
 „Naozaj?“
 „Naozaj,“ povedala Spievanka. „Ale ak budem práve držať niečo rozobraté, možno prídem aj s tým.“
@@ -380,7 +379,7 @@ Poletucha sa pozrela na zapadajúce slnko, na stromy, na diaľku, ktorá ju lák
 Potom na Ladu.
 „Nie,“ povedala. „Dnes nie.“
 A vzlietla.
-Leteli ponad prales, ponad hlboký les, ponad rieku, ponad lúky a nakoniec ponad mestské hradby. Lada videla kráľovstvo zhora. Palác svietil oknami. Záhrada vyzerala ako vyšívaná deka. Jazierko bolo malá tmavá bodka a pri ňom sa niečo zlaté mihlo.
+Leteli ponad prales, ponad hlboký les, ponad rieku, ponad lúky a nakoniec ponad mestské hradby. Lada videla kráľovstvo zhora. Palác svietil oknami. Záhrada vyzerala ako vyšívaná deka. Jazierko bolo malá tmavá bodka a pri ňom sa niečo zlatisto mihlo.
 Asi rybka.
 Poletucha pristála na balkóne Ladinej komnaty tak jemne, že sa nepohla ani záclona.
 „Ďakujem,“ zašepkala Lada.
@@ -450,3 +449,4 @@ A niekde v lese stál jednorožec pri potoku a obdivoval svoj odraz.
 „Nebol to útek,“ povedal sám sebe. „Bolo to taktické premiestnenie krásy.“
 Potok mu na to nič nepovedal.
 Ale zlatá rybka by určite mala nevrlú poznámku.
+

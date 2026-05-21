@@ -18,5 +18,20 @@
     "nazov": "Mesto a zmrzlinárstvo",
     "typ": "ľudia",
     "kratko": "Stredoveké mesto, kde je zmrzlinárstvo prakticky strategická inštitúcia."
+  },
+  {
+    "nazov": "Močiare pri rieke za horou",
+    "typ": "nebezpečné dobrodružstvo",
+    "kratko": "Temné močiare asi deň cesty na koni proti prúdu rieky. Zem tam nedrží, svetlo klame a v bahne číha Blatný obor aj Lampášnica."
+  },
+  {
+    "nazov": "Trpasličie bane pod Dračou horou",
+    "typ": "remeslo a tajomstvá",
+    "kratko": "Skutočný domov trpaslíkov ukrytý hlboko v hore, kde sa kovy ťažia a predmety tvoria od srdca."
+  },
+  {
+    "nazov": "Čierny les",
+    "typ": "temný les",
+    "kratko": "Nebezpečnejšia časť lesa pre výpravy princov, kde sa pohybuje vlkodlak a kde možno cítiť starý smútok opusteného druida."
   }
 ]

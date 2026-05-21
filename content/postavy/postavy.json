@@ -26,5 +26,75 @@
     "schopnosť": "hudba a tvorenie",
     "kratko": "Vynálezkyňa zvukov, hračiek a nápadov s vlastným rytmom.",
     "obrazok": "assets/illustrations/spievanka.png"
+  },
+  {
+    "meno": "Marek",
+    "rola": "Ladin najstarší brat",
+    "kratko": "Veľký, silný a hlučný princ, ktorý rozpráva priamo, všade ho je veľa a veci nazýva pravými menami.",
+    "pozitiva": [
+      "najstarší",
+      "silný",
+      "extrovertný",
+      "hlučný",
+      "odvážny",
+      "prostoreký",
+      "tvrdohlavý"
+    ],
+    "tiene": [
+      "vie byť krutý",
+      "je lenivý",
+      "občas sa bojí a nerád to priznáva",
+      "niektoré veci mu dochádzajú pomalšie"
+    ]
+  },
+  {
+    "meno": "Jakub",
+    "rola": "Ladin stredný brat",
+    "kratko": "Rýchly, šľachovitý a pekný princ so zádumčivou hlavou, dobrým okom pre kušu a skrytým nadaním na mágiu.",
+    "pozitiva": [
+      "rýchly",
+      "šľachovitý",
+      "pekný",
+      "nebojacný",
+      "tichý",
+      "zádumčivý",
+      "inteligentný",
+      "zvedavý",
+      "sčítaný",
+      "dobre strieľa z kuše",
+      "rád sa učí nové veci",
+      "má neobjavené nadanie na mágiu"
+    ],
+    "tiene": [
+      "je introvertný",
+      "často samotár",
+      "niekedy je taký zadumaný, že zabudne aj ako sa volá",
+      "tichá voda brehy myje",
+      "svojmu magickému nadaniu zatiaľ nerozumie"
+    ]
+  },
+  {
+    "meno": "Saško",
+    "rola": "Ladin najmladší brat",
+    "kratko": "Najmladší princ, múdry špekulant a hravý provokatér, ktorý má dušou blízko k šéfovaniu, súťaženiu a dobrým nápadom.",
+    "pozitiva": [
+      "najmladší",
+      "špekulant",
+      "múdry",
+      "súťaživý",
+      "dušou šéf",
+      "má dobré srdce",
+      "hravý",
+      "zvedavý"
+    ],
+    "tiene": [
+      "provokatér",
+      "každého podpichuje",
+      "pranker"
+    ]
+  },
+  {
+    "skupina": "Ladini bratia",
+    "kratko": "Marek, Jakub a Saško radi súťažia medzi sebou aj s druhými. Často chodia spolu, najmä na lov do lesov alebo na cvičisko, kde trénujú s mečmi, lukom a kušou. Milujú drsné dobrodružstvá a nevyhýbajú sa nebezpečenstvu."
   }
 ]
