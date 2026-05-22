@@ -1,4 +1,4 @@
-﻿const fs = require("fs/promises");
+const fs = require("fs/promises");
 const path = require("path");
 
 const root = path.resolve(__dirname, "..");
@@ -189,7 +189,7 @@ function storyPage(story, text, allStories) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${escapeHtml(story.title)} | Dráčikovské rozprávky</title>
     <meta name="description" content="${escapeHtml(story.note)}">
-    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/styles.css?v=20260522-2">
 ${analyticsTag}
   </head>
   <body>
@@ -275,7 +275,7 @@ function storiesIndex(storyTexts) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Rozprávky | Dráčikovské rozprávky</title>
     <meta name="description" content="Zoznam dráčikových rozprávok na čisté čítanie v dennom aj nočnom režime.">
-    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/styles.css?v=20260522-2">
 ${analyticsTag}
   </head>
   <body>
@@ -306,7 +306,7 @@ function homePage() {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dráčikovské rozprávky</title>
     <meta name="description" content="Rozprávkový svet štyroch malých dráčikov na čítanie pred spaním.">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css?v=20260522-2">
 ${analyticsTag}
   </head>
   <body>
