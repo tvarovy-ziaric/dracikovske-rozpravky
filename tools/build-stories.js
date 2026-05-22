@@ -299,7 +299,6 @@ ${analyticsTag}
 
 function homePage() {
   const first = stories[0];
-  const latest = stories[stories.length - 1];
   return `<!doctype html>
 <html lang="sk">
   <head>
@@ -324,47 +323,7 @@ ${analyticsTag}
           </div>
         </div>
         <div class="hero-art">
-          <img src="assets/illustrations/kralovsky%20hrad.png" alt="Kráľovský hrad, záhrada a rozprávkové mesto">
-          <aside class="latest-note" aria-label="Najnovšia kapitola">
-            <strong>Najnovšie v kráľovstve</strong>
-            <p>${escapeHtml(latest.title)} je už vložená v knižnici aj s odkazom na predošlú časť.</p>
-          </aside>
-        </div>
-      </section>
-
-      <section class="section" aria-labelledby="quick-title">
-        <div class="section-head">
-          <div>
-            <p class="eyebrow">Rýchly vstup</p>
-            <h2 id="quick-title">Kam dnes večer?</h2>
-          </div>
-          <p>Stránka drží krátke rozhodovanie: čítať, pozrieť postavy alebo sa zorientovať v kráľovstve.</p>
-        </div>
-        <div class="grid">
-          <article class="card">
-            <img src="assets/illustrations/uhlik.png" alt="Uhlík, červený dráčik">
-            <div class="card-body">
-              <h3>Rozprávky</h3>
-              <p>Osem príbehov s dĺžkou čítania, čistým rozložením a ďalšou kapitolou na konci.</p>
-              <div class="tag-row"><span class="tag">8 kapitol</span><span class="tag">večer</span></div>
-            </div>
-          </article>
-          <article class="card">
-            <img src="assets/illustrations/mokros.png" alt="Mokroš, modrý dráčik">
-            <div class="card-body">
-              <h3>Dračí atlas</h3>
-              <p>Postavy bez zahltenia: kto je kto, čo vie a v ktorých rozprávkach sa objaví.</p>
-              <div class="tag-row"><span class="tag">postavy</span><span class="tag">deti</span></div>
-            </div>
-          </article>
-          <article class="card">
-            <img src="assets/illustrations/Lada.png" alt="Princezná Lada">
-            <div class="card-body">
-              <h3>Pre rodičov</h3>
-              <p>Krátko o tóne, bezpečí a tom, prečo je svet vtipný, ale nie hlučný.</p>
-              <div class="tag-row"><span class="tag">pokojné</span><span class="tag">slovensky</span></div>
-            </div>
-          </article>
+          <img src="assets/illustrations/uvod-stredoveke-selfie.png" alt="Mama dračica, malé dráčiky, Lada a jej bratia na terase pri jaskyni">
         </div>
       </section>
     </main>

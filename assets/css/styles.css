@@ -233,7 +233,7 @@ h3 {
   align-self: stretch;
   min-height: 460px;
   display: grid;
-  align-items: end;
+  align-items: center;
 }
 
 .hero-art img {
@@ -372,6 +372,20 @@ h3 {
 
 .page-hero .lead {
   max-width: 720px;
+}
+
+.page-illustration {
+  margin: clamp(1.5rem, 4vw, 2.6rem) 0 0;
+}
+
+.page-illustration img {
+  width: 100%;
+  max-height: min(58svh, 560px);
+  object-fit: cover;
+  object-position: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
 .story-list {

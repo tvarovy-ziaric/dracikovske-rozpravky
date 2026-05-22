@@ -1,0 +1,246 @@
+# Ako pes zavrčal na svojho pána
+
+Zdroj: redakcia z raw textu, rozprávka 13.
+
+Palácový pes Bruno bol dobrý pes.
+
+Bol veľký, chlpatý, trochu smradľavý a presvedčený, že každý hosť prichádza najmä preto, aby ho poškriabal za uchom. Miloval deti, kuchyňu, stajne a svojho pána, starého stajníka Vavrinca.
+
+Bruno mal rád aj veci, ktoré by slušný pes možno nemal mať až tak rád. Napríklad klobásu schovanú vo vrecku, kaluže pri stajni, cudzie papuče a miesto presne uprostred dverí, kde prekážal všetkým, ale tváril sa, že tam leží služobne.
+
+Preto bolo veľmi zvláštne, keď na Vavrinca zavrčal.
+
+Stalo sa to večer.
+
+Kone už boli nakŕmené, slama uložená a Saško práve vysvetľoval Spievanke, ako by sa dal vynájsť stroj na automatické čistenie čižiem, ktorý by nečistil aj nohy. Spievanka ho počúvala vážne, lebo zlý nápad je často len dobrý nápad, ktorý ešte nemá brzdy.
+
+Bruno stál pri dverách stajne. Chrbát mal napnutý, srsť zježenú a oči uprené na Vavrinca.
+
+„Bruno,“ povedal stajník ticho. „Čo je, kamarát?“
+
+Pes zavrčal hlbšie.
+
+Marek okamžite položil ruku na meč.
+
+Jakub mu ju chytil.
+
+„Nie.“
+
+„Pes útočí.“
+
+„Nie naozaj.“
+
+„Ako sa dá útočiť nie naozaj?“
+
+„Tak, že to nerobíš celý ty,“ povedal Jakub.
+
+Marek sa zamračil. Nerád počul vety, ktoré dávali zmysel až po niekoľkých sekundách.
+
+Saško sa sklonil.
+
+„Bruno? Poznáš ma. Ja som ten, čo ti dáva klobásu, keď sa nikto nepozerá.“
+
+Bruno sa naňho pozrel.
+
+A Saško prestal hovoriť.
+
+Pes sa mu díval do očí príliš dlho. Psy sa tak nepozerajú. Pes pozrie, oňuchá, rozhodne sa, či ste jedlo, kamarát alebo problém, a potom pokračuje v živote. Bruno sa však díval, akoby cez jeho oči pozeral niekto iný.
+
+Potom sa otočil a vybehol zo stajne.
+
+„Za ním!“ zakričal Marek.
+
+Bruno nešiel do kuchyne.
+
+Nešiel do záhrady.
+
+Nešiel ani k bráne, kde zvykol štekať na vozy a tváriť sa, že bráni kráľovstvo pred sudmi s kapustou.
+
+Išiel ku koňom.
+
+Kone začali byť nepokojné. Jeden zaerdžal. Druhý udrel kopytom. Tretí, Jakubov sivý kôň Hmla, sa otočil k lesnej bráne a prestal žmurkať.
+
+„To sa mi nepáči,“ povedal Mokroš, ktorý práve vyliezol z napájadla, lebo vraj kontroloval kvalitu vody.
+
+„Tebe sa nepáči veľa vecí,“ povedal Uhlík.
+
+„Ale toto sa mi nepáči odborne.“
+
+Poletucha priletela zhora.
+
+„Pri severnej bráne sedia havrany. V rade.“
+
+„Havrany sedia hocikde,“ povedal Marek.
+
+„Nie ako vojaci.“
+
+To už aj Marek stíchol.
+
+Bruno zastal pri Hmle. Pes a kôň sa na seba dívali. Potom Hmla vykročil.
+
+Nie splašene.
+
+Nie vystrašene.
+
+Presne.
+
+Ako keby dostal povel, ktorý nikto nepočul.
+
+Za ním sa pohli ďalšie kone.
+
+„Zastavte ich!“ zvolal Vavrinec.
+
+Marek sa rozbehol k bráne. Uhlík mu pomáhal tým, že robil veľmi hrdinské plamienky, ktoré kone vôbec neupokojovali. Mokroš striekol pred kone vodu, aby sa zastavili. Kone vodu obišli.
+
+„Nevážia si dobrú mláku,“ urazil sa Mokroš.
+
+Jakub stál uprostred dvora a cítil, ako sa mu zviera hrdlo.
+
+„Nie sú splašené,“ povedal.
+
+„Tak čo sú?“ spýtala sa Spievanka.
+
+„Vedené.“
+
+Saško skočil pred Bruna.
+
+„Sadni!“
+
+Bruno nesadol.
+
+„To funguje len na vlkodlaka,“ povedal Uhlík.
+
+„Skúšam systém.“
+
+Bruno obišiel Saška a pokračoval k bráne.
+
+Jakub zavrel oči.
+
+Vnímal dvor. Kone. Psa. Havrany na hradbe. Bolo to, akoby všetky zvieratá spájal tenký neviditeľný povrázok. Nevidel ho, ale cítil napätie.
+
+Niečo ťahalo.
+
+Niečo chladné.
+
+Niečo, čo neprosilo, nevolalo a nevysvetľovalo. Iba držalo.
+
+Jakub urobil krok k Hmle.
+
+„Hmla,“ povedal ticho.
+
+Kôň nereagoval.
+
+„Hmla.“
+
+Nič.
+
+Jakub položil ruku na jeho krk. Kôň bol teplý, živý, ale pod tým teplom bolo čosi cudzie. Studený tieň.
+
+Jakub nevedel, čo robí. Spomenul si na trpasličie kladivko. Na rytmus. Na Mokrošovu vodu. Na to, že sila nemusí tlačiť. Niekedy stačí nájsť, kam niečo chce ísť.
+
+Zašepkal:
+
+„Vráť sa.“
+
+Hmla sa striasol.
+
+Kôň zažmurkal.
+
+A prvýkrát sa pozrel na Jakuba ako kôň.
+
+Potom zaerdžal.
+
+Ostatné kone zastali.
+
+Bruno zakňučal a spadol na zem, akoby bol veľmi unavený. Vavrinec k nemu pribehol.
+
+„Bruno!“
+
+Pes otvoril oči a olízal mu ruku.
+
+Stajník si sadol do slamy a objal ho.
+
+„Dobrý pes. Dobrý chlapec.“
+
+Na hradbe havrany naraz vzlietli.
+
+Všetky naraz.
+
+Bez jediného kráknutia.
+
+Poletucha ich sledovala, kým nezmizli nad lesom.
+
+„Toto nebolo obyčajné,“ povedala.
+
+„To už je náš nový normál,“ zamrmlal Saško.
+
+Marek sa pozrel na Jakuba.
+
+„Čo si spravil?“
+
+„Nič,“ povedal Jakub.
+
+Uhlík sa zasmial.
+
+„Ty robíš veľa ničoho.“
+
+Mokroš prikývol.
+
+„A tvoje nič niekedy hýbe vodou.“
+
+Spievanka dodala:
+
+„Alebo koňmi.“
+
+Jakub ustúpil.
+
+„Ja neviem.“
+
+Poletucha sa k nemu naklonila nezvyčajne jemne.
+
+„To je v poriadku. Nikto nevie lietať, kým prvýkrát nespadne.“
+
+„To ma má upokojiť?“
+
+„Nie. To je pravda.“
+
+Vavrinec prišiel k nim. Bruno kráčal pri ňom, už zase normálny, trochu zahanbený a veľmi pripravený na klobásu.
+
+„V lese je niečo zlé,“ povedal stajník. „Môj otec hovorieval, že keď zviera zabudne svoje meno, treba ísť za niekým, kto pozná staré mená lesa.“
+
+„Kto je to?“ spýtal sa Marek.
+
+Vavrinec sa pozrel k horám.
+
+„Baba Jaga.“
+
+Saško sa rozžiaril.
+
+„Tá s metlou?“
+
+„Tá s metlou,“ povedal Vavrinec.
+
+„Tá, čo skoro vyhrala preteky?“ spýtal sa Mokroš.
+
+„Tá, čo má v dome viac fliaš, než má kráľ poradcov,“ dodala Spievanka.
+
+Jakub sa pozrel k lesu.
+
+Nechcel ísť za Babou Jagou. To je dobré spomenúť. Kto tvrdí, že chce ísť za Babou Jagou, buď klame, alebo ešte nebol v jej dome.
+
+Ale zároveň cítil, že odpoveď nebude v stajni.
+
+Bude v lese.
+
+A možno v niekom, kto o lese vedel viac, než bol ochotný povedať.
+
+V noci Bruno spal pri Vavrincových nohách. Kone pokojne prežúvali seno. Havrany sa nevrátili.
+
+Len Jakub nemohol zaspať.
+
+Keď zavrel oči, cítil ten neviditeľný povrázok.
+
+A na jeho druhom konci nebolo zviera.
+
+Bolo tam niečo smutné.
+
