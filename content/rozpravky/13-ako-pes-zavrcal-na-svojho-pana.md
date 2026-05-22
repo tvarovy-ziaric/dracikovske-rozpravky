@@ -106,39 +106,39 @@ Saško skočil pred Čabu.
 
 „Skúšam systém.“
 
-Bruno obišiel Saška a pokračoval k bráne.
+Čaba obišiel Saška a pokračoval k sebernej bráne.
 
 Jakub zavrel oči.
 
 Vnímal dvor. Kone. Psa. Havrany na hradbe. Bolo to, akoby všetky zvieratá spájal tenký neviditeľný povrázok. Nevidel ho, ale cítil napätie.
 
-Niečo ťahalo.
+Niečo tam bolo.
 
 Niečo chladné.
 
-Niečo, čo neprosilo, nevolalo a nevysvetľovalo. Iba držalo.
+Niečo, čo neprosilo, nevolalo a nevysvetľovalo. Iba držalo a viedlo.
 
-Jakub urobil krok k Hmle.
+Jakub urobil krok k belákovi.
 
-„Hmla,“ povedal ticho.
+„Belko,“ povedal ticho.
 
 Kôň nereagoval.
 
-„Hmla.“
+„Belko.“
 
 Nič.
 
 Jakub položil ruku na jeho krk. Kôň bol teplý, živý, ale pod tým teplom bolo čosi cudzie. Studený tieň.
 
-Jakub nevedel, čo robí. Spomenul si na trpasličie kladivko. Na rytmus. Na Mokrošovu vodu. Na to, že sila nemusí tlačiť. Niekedy stačí nájsť, kam niečo chce ísť.
+Jakub nevedel, čo robí. Spomenul si na trpasličie kladivko. Na rytmus. Na Mokrošovu vodu. Na to, že sila nemusí tlačiť. Niekedy stačí nájsť, kam chce ísť.
 
 Zašepkal:
 
-„Vráť sa.“
+„Vráť sa!“
 
-Hmla sa striasol.
+Belko sa striasol. 
 
-Kôň zažmurkal.
+Zažmurkal.
 
 A prvýkrát sa pozrel na Jakuba ako kôň.
 
@@ -146,15 +146,15 @@ Potom zaerdžal.
 
 Ostatné kone zastali.
 
-Bruno zakňučal a spadol na zem, akoby bol veľmi unavený. Vavrinec k nemu pribehol.
+Čaba zakňučal a spadol na zem, akoby bol veľmi unavený. Vavrinec k nemu pribehol.
 
-„Bruno!“
+„Čabík!“
 
 Pes otvoril oči a olízal mu ruku.
 
 Stajník si sadol do slamy a objal ho.
 
-„Dobrý pes. Dobrý chlapec.“
+„Dobrý psík. Dobrý chlapec.“
 
 Na hradbe havrany naraz vzlietli.
 
@@ -164,9 +164,9 @@ Bez jediného kráknutia.
 
 Poletucha ich sledovala, kým nezmizli nad lesom.
 
-„Toto nebolo obyčajné,“ povedala.
+„Toto nebolo normálne,“ povedala.
 
-„To už je náš nový normál,“ zamrmlal Saško.
+„To už je taký náš nový normál,“ zamrmlal Saško.
 
 Marek sa pozrel na Jakuba.
 
@@ -180,7 +180,7 @@ Uhlík sa zasmial.
 
 Mokroš prikývol.
 
-„A tvoje nič niekedy hýbe vodou.“
+„To tvoje nič niekedy hýbe vodou.“
 
 Spievanka dodala:
 
@@ -198,11 +198,11 @@ Poletucha sa k nemu naklonila nezvyčajne jemne.
 
 „Nie. To je pravda.“
 
-Vavrinec prišiel k nim. Bruno kráčal pri ňom, už zase normálny, trochu zahanbený a veľmi pripravený na klobásu.
+Vavrinec prišiel k nim. Čaba kráčal pri ňom, už zase normálny, trochu zahanbený ale pripravený na klobásku.
 
 „V lese je niečo zlé,“ povedal stajník. „Môj otec hovorieval, že keď zviera zabudne svoje meno, treba ísť za niekým, kto pozná staré mená lesa.“
 
-„Kto je to?“ spýtal sa Marek.
+„A to je kto?“ spýtal sa Marek.
 
 Vavrinec sa pozrel k horám.
 
@@ -214,21 +214,19 @@ Saško sa rozžiaril.
 
 „Tá s metlou,“ povedal Vavrinec.
 
-„Tá, čo skoro vyhrala preteky?“ spýtal sa Mokroš.
-
-„Tá, čo má v dome viac fliaš, než má kráľ poradcov,“ dodala Spievanka.
+„Tá, čo má v dome viac flakónikov, než má kráľ poradcov,“ dodala veselo Spievanka.
 
 Jakub sa pozrel k lesu.
 
-Nechcel ísť za Babou Jagou. To je dobré spomenúť. Kto tvrdí, že chce ísť za Babou Jagou, buď klame, alebo ešte nebol v jej dome.
+Nechcel ísť za Babou Jagou. Kto tvrdí, že chce ísť za Babou Jagou, buď klame, alebo ešte nebol v jej dome.
 
-Ale zároveň cítil, že odpoveď nebude v stajni.
+Ale zároveň cítil, že odpoveď v stajni nenájde.
 
 Bude v lese.
 
-A možno v niekom, kto o lese vedel viac, než bol ochotný povedať.
+A bude ju poznať niekto, kto o lese vedel viac, než bol často ochotný povedať.
 
-V noci Bruno spal pri Vavrincových nohách. Kone pokojne prežúvali seno. Havrany sa nevrátili.
+V noci Čaba spal pri Vavrincových nohách. Kone pokojne prežúvali seno. Havrany sa nevrátili.
 
 Len Jakub nemohol zaspať.
 
@@ -236,5 +234,5 @@ Keď zavrel oči, cítil ten neviditeľný povrázok.
 
 A na jeho druhom konci nebolo zviera.
 
-Bolo tam niečo smutné.
+Bolo tam niečo iné. Staré a smutné.
 
